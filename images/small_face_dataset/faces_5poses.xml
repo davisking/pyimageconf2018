@@ -1,0 +1,846 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>dlib face detection dataset 2016-09-30</name>
+<comment>This dataset is a collection face images cropped from many publicly available
+   image datasets (excluding the FDDB dataset).  In particular, there are images
+   from ImageNet, AFLW, Pascal VOC, the VGG dataset, WIDER, and face scrub.
+
+   Care was taken to make sure every face in each image was labeled.
+
+ This file contains objects which were clustered into group 8 of 10 groups with a chip size of 8000 by imglab.
+
+ This file contains objects which were clustered into group 5 of 5 groups with a chip size of 8000 by imglab.</comment>
+<images>
+  <image file='images/a4/7e8bccde694bec0c0e3db0fde9c25e10.jpg_RESAMPLED_7524a3c4f0566949.png'>
+    <box top='68' left='74' width='99' height='99'/>
+  </image>
+  <image file='images/aa/flipped_c5ea98b3baa6e480cafc17d36709a1a5.jpg_RESAMPLED_6618a0752631f2f4.png'>
+    <box top='76' left='87' width='83' height='83'/>
+  </image>
+  <image file='images/1e/d7baea3194591d6b8ed0bf71936c38ae.jpg_RESAMPLED_37021a7b8b7f2b2e.png'>
+    <box top='78' left='69' width='83' height='83'/>
+  </image>
+  <image file='images/a9/cb9f145c5afc55f3e5e7198b53d433f8_RESAMPLED_be5457f191e65668.png'>
+    <box top='78' left='77' width='83' height='83'/>
+    <box top='85' left='208' width='39' height='42' ignore='1'/>
+    <box top='122' left='-11' width='80' height='83' ignore='1'/>
+  </image>
+  <image file='images/cd/c4eaf98d4e621279e106820af2569096.jpg_RESAMPLED_feaa85a463196739.png'>
+    <box top='73' left='61' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/3/image10463.jpg_RESAMPLED_ef45abe35f40709f.png'>
+    <box top='71' left='51' width='100' height='99'/>
+  </image>
+  <image file='images/f7/1595e332bb41f5749a9518c5c8f136c1.jpg_RESAMPLED_11149964ce04ab23.png'>
+    <box top='72' left='65' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/flipped_image44096.jpg_RESAMPLED_3c32a7317e6159d0.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/63/flipped_c7e802ac11875f158466bdfc61eaaad0_RESAMPLED_eac28703fdb70904.png'>
+    <box top='68' left='84' width='99' height='99'/>
+  </image>
+  <image file='images/23/b73949c00428fdde4a59f634dd9b0c72.jpg_RESAMPLED_acf72b7ce33f5564.png'>
+    <box top='89' left='91' width='69' height='70'/>
+    <box top='125' left='-2' width='63' height='66' ignore='1'/>
+  </image>
+  <image file='images/ca/flipped_5e8c5f7b97a0692b33b4b1d4602ed567.jpg_RESAMPLED_a7fab8f5d5ffc2ae.png'>
+    <box top='95' left='109' width='58' height='58'/>
+  </image>
+  <image file='images/ca/5e8c5f7b97a0692b33b4b1d4602ed567.jpg_RESAMPLED_a7fab8f5d5ffc2ae.png'>
+    <box top='95' left='83' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/3/flipped_image04908.jpg_RESAMPLED_ff66cafa59a5423f.png'>
+    <box top='84' left='103' width='83' height='83'/>
+  </image>
+  <image file='images/6d/flipped_0dea86a774f02beae2aa79fc57054397.jpg_RESAMPLED_eb5437209b445282.png'>
+    <box top='76' left='75' width='99' height='99'/>
+    <box top='26' left='-40' width='123' height='116' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image65789.jpg_RESAMPLED_78590b669b7293b3.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/c8/flipped_ab4b83b0469ea298efa142fb6785f983.jpg_RESAMPLED_c13a4d327cf59f02.png'>
+    <box top='78' left='89' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/flipped_image09897.jpg_RESAMPLED_60b8d5e384b7caf6.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='actresses/49862.jpg_RESAMPLED_43667acd9ce5c43f.png'>
+    <box top='89' left='90' width='69' height='70'/>
+  </image>
+  <image file='images/e6/3ddd9cc9880e2976d724bb3b283342a9.jpg_RESAMPLED_c7aefab4ad96f13b.png'>
+    <box top='78' left='79' width='83' height='83'/>
+  </image>
+  <image file='images/a7/flipped_ea31225c50ebf63fd6195293153cc40c.jpg_RESAMPLED_1d5e393d4fbd72fc.png'>
+    <box top='71' left='79' width='99' height='99'/>
+  </image>
+  <image file='images/24/9fbe9662ca2c8007150b47d2aa5ce217.jpg_RESAMPLED_7064fb1d4816cfd.png'>
+    <box top='70' left='64' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image04908.jpg_RESAMPLED_5163abd4df3c452c.png'>
+    <box top='84' left='70' width='80' height='83'/>
+  </image>
+  <image file='images/d4/2ed81f9b630eb24d67029b4651c9de76.jpg_RESAMPLED_36e8d0baaac084b4.png'>
+    <box top='78' left='75' width='83' height='83'/>
+  </image>
+  <image file='images/32/00b8b4e07548510c8443b3dcc96b4ca6.jpg_RESAMPLED_a8e271ab013abfc0.png'>
+    <box top='82' left='88' width='69' height='70'/>
+  </image>
+  <image file='images/54/flipped_4ecf4360483c0a04105a576711ea9232.jpg_RESAMPLED_b4e89c26035ca10c.png'>
+    <box top='76' left='88' width='85' height='84'/>
+  </image>
+  <image file='data/flickr/0/flipped_image65985.jpg_RESAMPLED_9205187a76da6feb.png'>
+    <box top='79' left='103' width='83' height='83'/>
+  </image>
+  <image file='images/63/c7e802ac11875f158466bdfc61eaaad0_RESAMPLED_eac28703fdb70904.png'>
+    <box top='68' left='67' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image48501.jpg_RESAMPLED_d1be49653131da2e.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/c0/46e8427ce705bb62cf672ade6cbe5a05.jpg_RESAMPLED_fa0c5244b918b204.png'>
+    <box top='72' left='73' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image09295.jpg_RESAMPLED_df586449de06e12b.png'>
+    <box top='77' left='98' width='77' height='81'/>
+  </image>
+  <image file='images/d4/flipped_2ed81f9b630eb24d67029b4651c9de76.jpg_RESAMPLED_36e8d0baaac084b4.png'>
+    <box top='78' left='92' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image59228.jpg_RESAMPLED_c3c813a889e4f420.png'>
+    <box top='76' left='96' width='89' height='86'/>
+  </image>
+  <image file='images/6b/flipped_551e9c19070d6eb27cfeb23fdff8ff14.jpg_RESAMPLED_7468669b43957bd3.png'>
+    <box top='76' left='91' width='83' height='83'/>
+  </image>
+  <image file='images/47/flipped_628124b2837a432f053a03ac57ac114f.jpg_RESAMPLED_8f9aad43be1528ad.png'>
+    <box top='72' left='86' width='99' height='99'/>
+  </image>
+  <image file='images/2d/70040f9371867e4076300eb24cadf5f8.jpg_RESAMPLED_eb62067cff87f92.png'>
+    <box top='90' left='78' width='75' height='74'/>
+    <box top='182' left='-29' width='65' height='72' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image56898.jpg_RESAMPLED_c48ac473d9041867.png'>
+    <box top='84' left='73' width='78' height='83'/>
+  </image>
+  <image file='images/6d/flipped_782c2a043b629ec2e8d7d6f819054084.jpg_RESAMPLED_1fd62e0ae6a53912.png'>
+    <box top='87' left='95' width='69' height='70'/>
+    <box top='87' left='185' width='78' height='82' ignore='1'/>
+  </image>
+  <image file='images/d3/20fd780e9fabc4616fd36e44cec15173.jpg_RESAMPLED_b494e94e16869943.png'>
+    <box top='78' left='70' width='83' height='83'/>
+    <box top='67' left='-52' width='84' height='90' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image03421.jpg_RESAMPLED_a92decc64f44008b.png'>
+    <box top='80' left='96' width='86' height='89'/>
+    <box top='62' left='11' width='83' height='82' ignore='1'/>
+  </image>
+  <image file='actors/52511.jpg_RESAMPLED_cb0de7f0cd444085.png'>
+    <box top='95' left='95' width='69' height='66'/>
+  </image>
+  <image file='data/flickr/3/flipped_image14444.jpg_RESAMPLED_195580693cbde39.png'>
+    <box top='79' left='95' width='83' height='84'/>
+  </image>
+  <image file='images/16/flipped_9cb25ca22e307c774ac89cb62f90c7d9_RESAMPLED_56947427c60a0b65.png'>
+    <box top='76' left='95' width='83' height='83'/>
+  </image>
+  <image file='images/88/bc118e3a3df99aa65b1a542f1e2d9535.jpg_RESAMPLED_b33672ede972a690.png'>
+    <box top='84' left='79' width='82' height='77'/>
+  </image>
+  <image file='data/flickr/3/image56238.jpg_RESAMPLED_f5a3ddc9fb1fd06e.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000511.jpg'>
+    <box top='92' left='226' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image12087.jpg_RESAMPLED_3c4e5fd3c0a078f3.png'>
+    <box top='72' left='54' width='99' height='99'/>
+  </image>
+  <image file='images/d4/005cd285ad586fa6b25b68fb71004b48.jpg_RESAMPLED_b7c481f93b4aa98d.png'>
+    <box top='79' left='79' width='83' height='83'/>
+  </image>
+  <image file='actresses/flipped_110034.jpg_RESAMPLED_7ecd66a97e9d2929.png'>
+    <box top='75' left='77' width='99' height='99'/>
+  </image>
+  <image file='images/e0/flipped_42b11ad4304949ca2f7171fb2a0b8145.jpg_RESAMPLED_3bc93e07825a4bbd.png'>
+    <box top='72' left='78' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image51899.jpg_RESAMPLED_52edfd0dc3628561.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/e7/flipped_782fdc32b4e7dc02c502f83f49ab4eca.jpg_RESAMPLED_424ae9219af49683.png'>
+    <box top='81' left='89' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image00586.jpg_RESAMPLED_aafb42eb1e52fba.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/a9/flipped_cb9f145c5afc55f3e5e7198b53d433f8_RESAMPLED_be5457f191e65668.png'>
+    <box top='78' left='90' width='83' height='83'/>
+    <box top='85' left='3' width='39' height='42' ignore='1'/>
+    <box top='122' left='181' width='80' height='83' ignore='1'/>
+  </image>
+  <image file='images/5e/bf76b1184a55fb030f85ca295a321149.jpg_RESAMPLED_f569d30ed799c1b4.png'>
+    <box top='83' left='84' width='83' height='83'/>
+    <box top='88' left='-44' width='90' height='94' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image08563.jpg_RESAMPLED_d6b207f6831ba29c.png'>
+    <box top='75' left='76' width='99' height='99' ignore='1'/>
+    <box top='138' left='114' width='99' height='100'/>
+  </image>
+  <image file='data/flickr/0/image00288.jpg_RESAMPLED_a8bb7cbacf5514cf.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/24/flipped_9fbe9662ca2c8007150b47d2aa5ce217.jpg_RESAMPLED_7064fb1d4816cfd.png'>
+    <box top='70' left='87' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/flipped_image67188.jpg_RESAMPLED_714dc921fee69aab.png'>
+    <box top='71' left='74' width='87' height='91'/>
+    <box top='118' left='-7' width='57' height='58' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image66449.jpg_RESAMPLED_74f79e62e3efffa6.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='136' left='231' width='119' height='122' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image32233.jpg_RESAMPLED_ffd728e56969fcbf.png'>
+    <box top='75' left='98' width='100' height='99'/>
+    <box top='38' left='22' width='83' height='85' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image03421.jpg_RESAMPLED_a92decc64f44008b.png'>
+    <box top='80' left='68' width='86' height='89'/>
+    <box top='62' left='156' width='83' height='82' ignore='1'/>
+  </image>
+  <image file='images/d4/flipped_005cd285ad586fa6b25b68fb71004b48.jpg_RESAMPLED_b7c481f93b4aa98d.png'>
+    <box top='79' left='88' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image47629.jpg_RESAMPLED_aae0b6f2e7913e31.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/81/flipped_9af068350de11ba26e26d783bc95083f.jpg_RESAMPLED_40eaf19efbd02049.png'>
+    <box top='76' left='89' width='83' height='83'/>
+  </image>
+  <image file='images/54/flipped_7ebf9fc75c037064e363f8650e9af790.jpg_RESAMPLED_d1d7ca675dea768c.png'>
+    <box top='74' left='87' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image28090.jpg_RESAMPLED_c91f4aced74dc4f2.png'>
+    <box top='80' left='70' width='83' height='83' ignore='1'/>
+    <box top='72' left='171' width='83' height='83'/>
+  </image>
+  <image file='images/bd/flipped_7e1a31d49dfabf5ba98699bbff8fd9e2.jpg_RESAMPLED_ab2449076e98cb22.png'>
+    <box top='84' left='89' width='77' height='75'/>
+  </image>
+  <image file='images/8f/flipped_2d094c4fecc481a29a14fe54a556f5db.jpg_RESAMPLED_9087a5ae4cb4afd0.png'>
+    <box top='75' left='76' width='99' height='99' pose='3' detection_score='3'/>
+  </image>
+  <image file='images/aa/c5ea98b3baa6e480cafc17d36709a1a5.jpg_RESAMPLED_6618a0752631f2f4.png'>
+    <box top='76' left='80' width='83' height='83'/>
+  </image>
+  <image file='images/bd/7e1a31d49dfabf5ba98699bbff8fd9e2.jpg_RESAMPLED_ab2449076e98cb22.png'>
+    <box top='84' left='84' width='77' height='75'/>
+  </image>
+  <image file='actresses/flipped_88025.jpg_RESAMPLED_1a199a8744dda376.png'>
+    <box top='88' left='86' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/flipped_image68789.jpg_RESAMPLED_768e25a66f1d2d9b.png'>
+    <box top='84' left='97' width='83' height='83'/>
+  </image>
+  <image file='images/61/58497acab7d2a2a2b287f7956e3e6eb2.jpg_RESAMPLED_8382eea01a1c51a4.png'>
+    <box top='77' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image34567.jpg_RESAMPLED_9a9446087a006325.png'>
+    <box top='81' left='66' width='83' height='83'/>
+    <box top='16' left='196' width='83' height='83' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image69717.png_RESAMPLED_9c806722db1be6ec.png'>
+    <box top='76' left='74' width='99' height='99'/>
+  </image>
+  <image file='images/c7/1a1b1561d90f91ce88c2d15abc0631ac.jpg_RESAMPLED_1f71a420779be6c6.png'>
+    <box top='83' left='76' width='83' height='83'/>
+    <box top='123' left='216' width='87' height='91' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/flipped_image03057.jpg_RESAMPLED_ea3a27ed5fc04d43.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image30263.jpg_RESAMPLED_a3c69530180c52de.png'>
+    <box top='70' left='94' width='99' height='99'/>
+  </image>
+  <image file='images/d0/8c13a676599a480b77d5751ef96bc179.jpg_RESAMPLED_19c4349003467ea6.png'>
+    <box top='80' left='79' width='83' height='83'/>
+    <box top='2' left='-34' width='83' height='88' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image25374.jpg_RESAMPLED_fb96c22dc4d53a41.png'>
+    <box top='72' left='97' width='100' height='99'/>
+  </image>
+  <image file='images/e9/8575af36d92d4b9f8074f440021d56f8.jpg_RESAMPLED_491ea0271e1edff9.png'>
+    <box top='77' left='81' width='83' height='83'/>
+  </image>
+  <image file='images/68/flipped_57fca0af51ac6404b55b771fa0af29b7.jpg_RESAMPLED_fc9dbecc611dfd31.png'>
+    <box top='80' left='94' width='77' height='75'/>
+  </image>
+  <image file='actresses/25012.jpg_RESAMPLED_6ed9cdfb24bc949f.png'>
+    <box top='89' left='90' width='69' height='68'/>
+  </image>
+  <image file='images/54/7ebf9fc75c037064e363f8650e9af790.jpg_RESAMPLED_d1d7ca675dea768c.png'>
+    <box top='74' left='80' width='83' height='83'/>
+  </image>
+  <image file='images/8f/d1bf6079ed0d42b9633a8ada60132f0f.jpg_RESAMPLED_916d90c003c72d4.png'>
+    <box top='86' left='82' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image44858.jpg_RESAMPLED_6647fd19c7ffa795.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image05787.jpg_RESAMPLED_d9e5d18cb3c5912.png'>
+    <box top='70' left='54' width='100' height='99'/>
+  </image>
+  <image file='images/ff/flipped_389a0a18a2c1629ee3bd3b505beea73c.jpg_RESAMPLED_f8d8c8b674858d05.png'>
+    <box top='71' left='87' width='95' height='98'/>
+    <box top='-3' left='-25' width='87' height='69' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/flipped_image65789.jpg_RESAMPLED_78590b669b7293b3.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/be/21953bf67305fd140c6808e3fdcafc01.jpg_RESAMPLED_516d05320734760b.png'>
+    <box top='79' left='79' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/flipped_2008_000511.png'>
+    <box top='92' left='175' width='99' height='99'/>
+  </image>
+  <image file='images/16/flipped_16488b878130849a2a29a9092b120237.jpg_RESAMPLED_95ce1a7419b345a9.png'>
+    <box top='79' left='85' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image44223.jpg_RESAMPLED_3f2e05873bbb1c87.png'>
+    <box top='75' left='93' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/flipped_image65815.jpg_RESAMPLED_30cd290962be53eb.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='115' left='219' width='98' height='98' ignore='1'/>
+    <box top='80' left='-63' width='98' height='98' ignore='1'/>
+  </image>
+  <image file='images/a4/flipped_7e8bccde694bec0c0e3db0fde9c25e10.jpg_RESAMPLED_7524a3c4f0566949.png'>
+    <box top='68' left='77' width='99' height='99'/>
+  </image>
+  <image file='images/66/flipped_c314668f39a00347f1799d06c798fce6.png_RESAMPLED_2ae1149f28f240b9.png'>
+    <box top='81' left='96' width='83' height='83'/>
+  </image>
+  <image file='images/23/flipped_18228e0b656332d75720ec34fdf6ce25.jpg_RESAMPLED_a517ded4cb4dd557.png'>
+    <box top='81' left='89' width='83' height='83'/>
+  </image>
+  <image file='images/4a/flipped_f009f42242fcf7489002415b4db4e077.jpg_RESAMPLED_c46623cd131d05ac.png'>
+    <box top='69' left='82' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/flipped_2008_000825.png'>
+    <box top='75' left='108' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/0/flipped_image22323.jpg_RESAMPLED_66762b1f3eb272dc.png'>
+    <box top='85' left='82' width='83' height='83'/>
+    <box top='79' left='-98' width='111' height='111' ignore='1'/>
+  </image>
+  <image file='images/e0/e6933a348420fe3f91bcadf8cd3aab28.jpg_RESAMPLED_f59f8a873f062c16.png'>
+    <box top='78' left='79' width='83' height='83'/>
+  </image>
+  <image file='images/c8/ab4b83b0469ea298efa142fb6785f983.jpg_RESAMPLED_c13a4d327cf59f02.png'>
+    <box top='78' left='78' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image09295.jpg_RESAMPLED_df586449de06e12b.png'>
+    <box top='77' left='75' width='77' height='81'/>
+  </image>
+  <image file='images/e0/flipped_e6933a348420fe3f91bcadf8cd3aab28.jpg_RESAMPLED_f59f8a873f062c16.png'>
+    <box top='78' left='88' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image36803.jpg_RESAMPLED_4963d7fc59f461df.png'>
+    <box top='76' left='77' width='99' height='99'/>
+    <box top='166' left='150' width='58' height='58'/>
+    <box top='159' left='217' width='66' height='67' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image47629.jpg_RESAMPLED_aae0b6f2e7913e31.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='actresses/106137.jpg_RESAMPLED_7f14f0f84276cb30.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image40863.jpg_RESAMPLED_8d54f9427a9fc442.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/6e/flipped_69173d5c845eca09a24edcccb1447417.jpg_RESAMPLED_555697dc522997a.png'>
+    <box top='91' left='102' width='69' height='69'/>
+    <box top='103' left='-38' width='88' height='84' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image37061.jpg_RESAMPLED_66578b6a964ba645.png'>
+    <box top='-98' left='-4' width='114' height='109' ignore='1'/>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image20733.jpg_RESAMPLED_2671b44be44f36c4.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/bf/flipped_fede6dafddec879abf6380684866df3f.jpg_RESAMPLED_ee5bbbdfd0d3139d.png'>
+    <box top='83' left='93' width='69' height='71'/>
+  </image>
+  <image file='data/flickr/3/flipped_image33808.jpg_RESAMPLED_6ae5fa8d375e5e16.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image25921.jpg_RESAMPLED_deeec7b27619aad2.png'>
+    <box top='75' left='74' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image34567.jpg_RESAMPLED_9a9446087a006325.png'>
+    <box top='81' left='101' width='83' height='83'/>
+    <box top='16' left='-29' width='83' height='83' ignore='1'/>
+  </image>
+  <image file='actresses/flipped_70801.jpg_RESAMPLED_6af7f0b884d5c9e4.png'>
+    <box top='89' left='91' width='69' height='70'/>
+  </image>
+  <image file='images/d0/flipped_8c13a676599a480b77d5751ef96bc179.jpg_RESAMPLED_19c4349003467ea6.png'>
+    <box top='80' left='88' width='83' height='83'/>
+    <box top='2' left='201' width='83' height='88' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image02114.jpg_RESAMPLED_b556a5039a1169c6.png'>
+    <box top='65' left='85' width='119' height='119'/>
+  </image>
+  <image file='images/0a/79ce9b23fb6823a8714c28b9bed8c7df.jpg_RESAMPLED_1d5214d1c8dabdec.png'>
+    <box top='80' left='69' width='86' height='83'/>
+  </image>
+  <image file='images/57/flipped_73b047cf9f90f0ed324001bf53cf9bfd.jpg_RESAMPLED_a1164cb7b6e8a663.png'>
+    <box top='76' left='87' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image54994.jpg_RESAMPLED_af2de753235cd965.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/dd/flipped_0c49dbe6dfe43b58c0251cbad08d9357.jpg_RESAMPLED_78616c83977d2f29.png'>
+    <box top='69' left='82' width='99' height='99'/>
+    <box top='49' left='205' width='104' height='91' ignore='1'/>
+  </image>
+  <image file='images/06/f6bb60d9b7757b8ed7167244b0fb7231.jpg_RESAMPLED_f22b8f8ca0ecb2ad.png'>
+    <box top='70' left='73' width='99' height='99'/>
+    <box top='170' left='192' width='57' height='62' ignore='1'/>
+  </image>
+  <image file='images/06/flipped_f6bb60d9b7757b8ed7167244b0fb7231.jpg_RESAMPLED_f22b8f8ca0ecb2ad.png'>
+    <box top='70' left='78' width='99' height='99'/>
+    <box top='170' left='1' width='57' height='62' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image27876.jpg_RESAMPLED_817f5d9ec39cad8f.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/f7/flipped_1595e332bb41f5749a9518c5c8f136c1.jpg_RESAMPLED_11149964ce04ab23.png'>
+    <box top='72' left='86' width='99' height='99'/>
+  </image>
+  <image file='images/25/dd90175671cc9366be6c575a391729f4.jpg_RESAMPLED_5bdff027f1f0eaaa.png'>
+    <box top='72' left='68' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image01631.jpg_RESAMPLED_41f37fb2af5188e5.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='112' left='224' width='62' height='68' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/flipped_image00288.jpg_RESAMPLED_a8bb7cbacf5514cf.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/65/flipped_a12be928b57ff7236a47463c08eed8fc.jpg_RESAMPLED_107824ca7d86f839.png'>
+    <box top='76' left='89' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image44223.jpg_RESAMPLED_3f2e05873bbb1c87.png'>
+    <box top='75' left='58' width='99' height='99'/>
+  </image>
+  <image file='images/ae/flipped_34efb95a560c1d94e6d2fa23844d4096.jpg_RESAMPLED_8898ece3c547a503.png'>
+    <box top='72' left='89' width='99' height='99'/>
+  </image>
+  <image file='images/dd/0c49dbe6dfe43b58c0251cbad08d9357.jpg_RESAMPLED_78616c83977d2f29.png'>
+    <box top='69' left='69' width='99' height='99'/>
+    <box top='49' left='-59' width='104' height='91' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/flipped_image15081.jpg_RESAMPLED_a7dd076ffe84214a.png'>
+    <box top='84' left='71' width='81' height='83'/>
+  </image>
+  <image file='actresses/flipped_77921.jpg_RESAMPLED_a11159f44ab2953b.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/16/16488b878130849a2a29a9092b120237.jpg_RESAMPLED_95ce1a7419b345a9.png'>
+    <box top='79' left='82' width='83' height='83'/>
+  </image>
+  <image file='images/32/flipped_00b8b4e07548510c8443b3dcc96b4ca6.jpg_RESAMPLED_a8e271ab013abfc0.png'>
+    <box top='82' left='93' width='69' height='70'/>
+  </image>
+  <image file='images/65/a12be928b57ff7236a47463c08eed8fc.jpg_RESAMPLED_107824ca7d86f839.png'>
+    <box top='76' left='78' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image20755.jpg_RESAMPLED_a285d1301b2089ef.png'>
+    <box top='74' left='76' width='99' height='99'/>
+    <box top='88' left='-22' width='90' height='80' ignore='1'/>
+  </image>
+  <image file='images/8d/a2c47ea035c9d0a56730e4df1c7152d5_RESAMPLED_98953258c7e46b1b.png'>
+    <box top='74' left='74' width='83' height='83'/>
+  </image>
+  <image file='images/8f/2d094c4fecc481a29a14fe54a556f5db.jpg_RESAMPLED_9087a5ae4cb4afd0.png'>
+    <box top='75' left='75' width='99' height='99' pose='3' detection_score='3'/>
+  </image>
+  <image file='images/5e/flipped_bf76b1184a55fb030f85ca295a321149.jpg_RESAMPLED_f569d30ed799c1b4.png'>
+    <box top='83' left='83' width='83' height='83'/>
+    <box top='88' left='204' width='90' height='94' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/flipped_image40863.jpg_RESAMPLED_8d54f9427a9fc442.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/a7/ea31225c50ebf63fd6195293153cc40c.jpg_RESAMPLED_1d5e393d4fbd72fc.png'>
+    <box top='71' left='72' width='99' height='99'/>
+  </image>
+  <image file='images/2f/flipped_65359b5980bd7791efa55370b3c75c03.jpg_RESAMPLED_ca1814c291fd2de.png'>
+    <box top='72' left='80' width='99' height='99'/>
+  </image>
+  <image file='images/21/37c6e1870f0e2051bbceef1041633f9e.jpg_RESAMPLED_6bf3ac20bd2ae10c.png'>
+    <box top='69' left='70' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image02114.jpg_RESAMPLED_b556a5039a1169c6.png'>
+    <box top='65' left='46' width='119' height='119'/>
+  </image>
+  <image file='data/flickr/0/image68789.jpg_RESAMPLED_768e25a66f1d2d9b.png'>
+    <box top='84' left='70' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image04908.jpg_RESAMPLED_ff66cafa59a5423f.png'>
+    <box top='84' left='64' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image10501.jpg_RESAMPLED_292b0063ec01de71.png'>
+    <box top='81' left='101' width='83' height='83'/>
+  </image>
+  <image file='images/8d/flipped_a2c47ea035c9d0a56730e4df1c7152d5_RESAMPLED_98953258c7e46b1b.png'>
+    <box top='74' left='93' width='83' height='83'/>
+  </image>
+  <image file='images/d5/1d76f054b43a51dd12c1ddca29093a8c.jpg_RESAMPLED_135bca823fd56c32.png'>
+    <box top='76' left='71' width='95' height='94'/>
+  </image>
+  <image file='images/8f/flipped_d1bf6079ed0d42b9633a8ada60132f0f.jpg_RESAMPLED_916d90c003c72d4.png'>
+    <box top='86' left='99' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/flipped_image08563.jpg_RESAMPLED_d6b207f6831ba29c.png'>
+    <box top='75' left='75' width='99' height='99' ignore='1'/>
+    <box top='138' left='37' width='99' height='100'/>
+  </image>
+  <image file='images/01/flipped_42dda9dd5d94a4be0186e552714c279d.jpg_RESAMPLED_ee2cc56a415e8799.png'>
+    <box top='80' left='93' width='83' height='83'/>
+  </image>
+  <image file='actresses/88025.jpg_RESAMPLED_1a199a8744dda376.png'>
+    <box top='88' left='81' width='83' height='83'/>
+  </image>
+  <image file='images/d2/a47ac6e2af2c78acf21145d18453b45b.jpg_RESAMPLED_b2068bc03323be2a.png'>
+    <box top='68' left='68' width='99' height='99'/>
+  </image>
+  <image file='images/09/770ab5c638b25460856e9feadc0f02f7.jpg_RESAMPLED_1283c245161d9fb5.png'>
+    <box top='75' left='75' width='99' height='99' pose='3' detection_score='3'/>
+  </image>
+  <image file='images/9b/flipped_15f9f9112c1856ec1252b45323564729.jpg_RESAMPLED_8ba849da1a07c866.png'>
+    <box top='71' left='78' width='99' height='99'/>
+  </image>
+  <image file='images/28/flipped_c8ac770215455f8cffaf8c41a327f8d3_RESAMPLED_30678947544b16e7.png'>
+    <box top='83' left='96' width='78' height='79'/>
+    <box top='40' left='154' width='41' height='40' ignore='1'/>
+    <box top='84' left='19' width='46' height='43' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image31882.jpg_RESAMPLED_1295436a36ad3a63.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='71' left='168' width='95' height='109' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/flipped_image68759.jpg_RESAMPLED_dd1179ad2d78b720.png'>
+    <box top='77' left='74' width='99' height='99'/>
+  </image>
+  <image file='images/b1/0e2b4b25efbcd66649b4ca8ce93a1662.jpg_RESAMPLED_742d77075b1af090.png'>
+    <box top='69' left='67' width='99' height='99'/>
+  </image>
+  <image file='images/9f/e5221b4293440d21fc03c2837d9d0195.jpg_RESAMPLED_3eceaa6135d66a4f.png'>
+    <box top='71' left='69' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image59227.jpg_RESAMPLED_207c41e6cdb00fa2.png'>
+    <box top='68' left='91' width='99' height='99'/>
+  </image>
+  <image file='images/4a/f009f42242fcf7489002415b4db4e077.jpg_RESAMPLED_c46623cd131d05ac.png'>
+    <box top='69' left='69' width='99' height='99'/>
+  </image>
+  <image file='images/eb/f2bcf9d2ab816e8637670f3b5d30273e.jpg_RESAMPLED_60a4b55480001fa.png'>
+    <box top='85' left='80' width='69' height='70'/>
+  </image>
+  <image file='images/74/flipped_3bb014d0df711e6d3402bd03200aebd9.jpg_RESAMPLED_c3997ce6a1a06fbc.png'>
+    <box top='85' left='83' width='83' height='83' pose='4' detection_score='3'/>
+  </image>
+  <image file='data/flickr/3/flipped_image16480.jpg_RESAMPLED_2f1fbccd4f9e3c66.png'>
+    <box top='77' left='94' width='92' height='89'/>
+  </image>
+  <image file='images/9b/15f9f9112c1856ec1252b45323564729.jpg_RESAMPLED_8ba849da1a07c866.png'>
+    <box top='71' left='73' width='99' height='99'/>
+  </image>
+  <image file='images/23/flipped_b73949c00428fdde4a59f634dd9b0c72.jpg_RESAMPLED_acf72b7ce33f5564.png'>
+    <box top='89' left='90' width='69' height='70'/>
+    <box top='125' left='189' width='63' height='66' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image31447.jpg_RESAMPLED_5b2abfee2605f27a.png'>
+    <box top='88' left='81' width='69' height='70'/>
+  </image>
+  <image file='images/e4/flipped_f39f2e1aa016a0fd70a2a4d35a75b59b_RESAMPLED_6e55ce51ee999b80.png'>
+    <box top='78' left='98' width='83' height='83'/>
+  </image>
+  <image file='images/fd/2be8f0ad987451f51d0f3e334ebc965f.jpg_RESAMPLED_84431642ba5ae21b.png'>
+    <box top='92' left='86' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/flipped_image14873.jpg_RESAMPLED_dcfbdd2d735dc7e1.png'>
+    <box top='79' left='78' width='85' height='88'/>
+  </image>
+  <image file='data/flickr/3/flipped_image18377.jpg_RESAMPLED_16a5f4e45cb9c632.png'>
+    <box top='74' left='93' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image17029.jpg_RESAMPLED_34a6f6162fc80e93.png'>
+    <box top='77' left='62' width='89' height='88'/>
+  </image>
+  <image file='images/be/flipped_21953bf67305fd140c6808e3fdcafc01.jpg_RESAMPLED_516d05320734760b.png'>
+    <box top='79' left='88' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image59227.jpg_RESAMPLED_207c41e6cdb00fa2.png'>
+    <box top='68' left='60' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000825.jpg'>
+    <box top='75' left='179' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/2/image67188.jpg_RESAMPLED_714dc921fee69aab.png'>
+    <box top='71' left='89' width='87' height='91'/>
+    <box top='118' left='200' width='57' height='58' ignore='1'/>
+  </image>
+  <image file='images/48/789cee297f9fba602e7cbc2dec217fbd.jpg_RESAMPLED_f9c723d710f72489.png'>
+    <box top='74' left='69' width='99' height='99'/>
+  </image>
+  <image file='images/e0/42b11ad4304949ca2f7171fb2a0b8145.jpg_RESAMPLED_3bc93e07825a4bbd.png'>
+    <box top='72' left='73' width='99' height='99'/>
+  </image>
+  <image file='images/d2/flipped_a47ac6e2af2c78acf21145d18453b45b.jpg_RESAMPLED_b2068bc03323be2a.png'>
+    <box top='68' left='83' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image30263.jpg_RESAMPLED_a3c69530180c52de.png'>
+    <box top='70' left='57' width='99' height='99'/>
+  </image>
+  <image file='images/2f/65359b5980bd7791efa55370b3c75c03.jpg_RESAMPLED_ca1814c291fd2de.png'>
+    <box top='72' left='71' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image18377.jpg_RESAMPLED_16a5f4e45cb9c632.png'>
+    <box top='74' left='58' width='99' height='99'/>
+  </image>
+  <image file='images/47/628124b2837a432f053a03ac57ac114f.jpg_RESAMPLED_8f9aad43be1528ad.png'>
+    <box top='72' left='65' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image20903.jpg_RESAMPLED_2b6e2b76aecd2d86.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='-61' left='85' width='86' height='85' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image33892.jpg_RESAMPLED_fdcf526388994ddf.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/flipped_image05787.jpg_RESAMPLED_d9e5d18cb3c5912.png'>
+    <box top='70' left='96' width='100' height='99'/>
+  </image>
+  <image file='images/62/flipped_bd21d87e7a25202e1b85c9bec160254f.jpg_RESAMPLED_4070ab067d2df4b.png'>
+    <box top='73' left='82' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image32233.jpg_RESAMPLED_ffd728e56969fcbf.png'>
+    <box top='75' left='52' width='100' height='99'/>
+    <box top='38' left='145' width='83' height='85' ignore='1'/>
+  </image>
+  <image file='images/a5/e34caa33c1dbcd2da1f1293cf93eb446.jpg_RESAMPLED_de1d027aaf22763a.png'>
+    <box top='84' left='83' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image10501.jpg_RESAMPLED_292b0063ec01de71.png'>
+    <box top='81' left='66' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image56458.jpg_RESAMPLED_9070761d5a2aee66.png'>
+    <box top='73' left='89' width='100' height='99'/>
+  </image>
+  <image file='images/e4/f39f2e1aa016a0fd70a2a4d35a75b59b_RESAMPLED_6e55ce51ee999b80.png'>
+    <box top='78' left='69' width='83' height='83'/>
+  </image>
+  <image file='images/54/4ecf4360483c0a04105a576711ea9232.jpg_RESAMPLED_b4e89c26035ca10c.png'>
+    <box top='76' left='77' width='85' height='84'/>
+  </image>
+  <image file='images/d5/flipped_1d76f054b43a51dd12c1ddca29093a8c.jpg_RESAMPLED_135bca823fd56c32.png'>
+    <box top='76' left='84' width='95' height='94'/>
+  </image>
+  <image file='images/6d/782c2a043b629ec2e8d7d6f819054084.jpg_RESAMPLED_1fd62e0ae6a53912.png'>
+    <box top='87' left='86' width='69' height='70'/>
+    <box top='87' left='-13' width='78' height='82' ignore='1'/>
+  </image>
+  <image file='images/57/73b047cf9f90f0ed324001bf53cf9bfd.jpg_RESAMPLED_a1164cb7b6e8a663.png'>
+    <box top='76' left='80' width='83' height='83'/>
+  </image>
+  <image file='actresses/112.jpg_RESAMPLED_e0b622ffe314c74e.png'>
+    <box top='90' left='91' width='69' height='70'/>
+  </image>
+  <image file='actresses/16569.jpg_RESAMPLED_6dbe8ccb70336da5.png'>
+    <box top='130' left='58' width='83' height='83'/>
+    <box top='140' left='134' width='65' height='68' ignore='1'/>
+  </image>
+  <image file='actresses/flipped_55171.jpg_RESAMPLED_8bff86f058758520.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/ff/389a0a18a2c1629ee3bd3b505beea73c.jpg_RESAMPLED_f8d8c8b674858d05.png'>
+    <box top='71' left='68' width='95' height='98'/>
+    <box top='-3' left='188' width='87' height='69' ignore='1'/>
+  </image>
+  <image file='images/eb/flipped_f2bcf9d2ab816e8637670f3b5d30273e.jpg_RESAMPLED_60a4b55480001fa.png'>
+    <box top='85' left='101' width='69' height='70'/>
+  </image>
+  <image file='images/61/flipped_58497acab7d2a2a2b287f7956e3e6eb2.jpg_RESAMPLED_8382eea01a1c51a4.png'>
+    <box top='77' left='91' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image39104.jpg_RESAMPLED_626dcaff4ea15964.png'>
+    <box top='74' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/fa/c9e57575a0587e8d95be2672593a6b68.jpg_RESAMPLED_9c5e02bfeea86542.png'>
+    <box top='80' left='78' width='71' height='71'/>
+    <box top='121' left='171' width='41' height='40' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image39104.jpg_RESAMPLED_626dcaff4ea15964.png'>
+    <box top='74' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/flipped_image00586.jpg_RESAMPLED_aafb42eb1e52fba.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image44096.jpg_RESAMPLED_3c32a7317e6159d0.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image59228.jpg_RESAMPLED_c3c813a889e4f420.png'>
+    <box top='76' left='65' width='89' height='86'/>
+  </image>
+  <image file='images/48/flipped_789cee297f9fba602e7cbc2dec217fbd.jpg_RESAMPLED_f9c723d710f72489.png'>
+    <box top='74' left='82' width='99' height='99'/>
+  </image>
+  <image file='images/e9/flipped_8575af36d92d4b9f8074f440021d56f8.jpg_RESAMPLED_491ea0271e1edff9.png'>
+    <box top='77' left='86' width='83' height='83'/>
+  </image>
+  <image file='images/21/flipped_37c6e1870f0e2051bbceef1041633f9e.jpg_RESAMPLED_6bf3ac20bd2ae10c.png'>
+    <box top='69' left='81' width='99' height='99'/>
+  </image>
+  <image file='images/c0/flipped_46e8427ce705bb62cf672ade6cbe5a05.jpg_RESAMPLED_fa0c5244b918b204.png'>
+    <box top='72' left='78' width='99' height='99'/>
+  </image>
+  <image file='images/23/18228e0b656332d75720ec34fdf6ce25.jpg_RESAMPLED_a517ded4cb4dd557.png'>
+    <box top='81' left='78' width='83' height='83'/>
+  </image>
+  <image file='images/ff/dd4099b130aa47d324b15192386b7ec1.jpg_RESAMPLED_d07c8c2d974e136f.png'>
+    <box top='82' left='81' width='69' height='70'/>
+  </image>
+  <image file='images/f1/bf75f76a4b9e646be82f5f8efe634804_RESAMPLED_cb1b491c739c7dd4.png'>
+    <box top='75' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/flipped_image31882.jpg_RESAMPLED_1295436a36ad3a63.png'>
+    <box top='76' left='75' width='99' height='99'/>
+    <box top='71' left='-13' width='95' height='109' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/flipped_image48501.jpg_RESAMPLED_d1be49653131da2e.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/flipped_image66726.jpg_RESAMPLED_10ba3800de9bca64.png'>
+    <box top='71' left='96' width='100' height='99'/>
+    <box top='94' left='63' width='58' height='58'/>
+    <box top='59' left='-20' width='57' height='58' ignore='1'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04456115/n04456115_29463.JPEG_RESAMPLED_ff15ff100189a368.png'>
+    <box top='121' left='119' width='115' height='111'/>
+    <box top='29' left='260' width='136' height='140' ignore='1'/>
+    <box top='185' left='-29' width='64' height='64' ignore='1'/>
+  </image>
+  <image file='actresses/flipped_112.jpg_RESAMPLED_e0b622ffe314c74e.png'>
+    <box top='90' left='90' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/flipped_image37061.jpg_RESAMPLED_66578b6a964ba645.png'>
+    <box top='-98' left='140' width='114' height='109' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04456115/flipped_n04456115_29463.JPEG_RESAMPLED_ff15ff100189a368.png'>
+    <box top='121' left='116' width='115' height='111'/>
+    <box top='29' left='-46' width='136' height='140' ignore='1'/>
+    <box top='185' left='315' width='64' height='64' ignore='1'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_008043.jpg'>
+    <box top='73' left='85' width='119' height='119'/>
+  </image>
+  <image file='data/flickr/3/image56458.jpg_RESAMPLED_9070761d5a2aee66.png'>
+    <box top='73' left='61' width='100' height='99'/>
+  </image>
+  <image file='images/81/9af068350de11ba26e26d783bc95083f.jpg_RESAMPLED_40eaf19efbd02049.png'>
+    <box top='76' left='78' width='83' height='83'/>
+  </image>
+  <image file='images/6b/551e9c19070d6eb27cfeb23fdff8ff14.jpg_RESAMPLED_7468669b43957bd3.png'>
+    <box top='76' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image28090.jpg_RESAMPLED_c91f4aced74dc4f2.png'>
+    <box top='80' left='97' width='83' height='83' ignore='1'/>
+    <box top='72' left='-4' width='83' height='83'/>
+  </image>
+  <image file='images/9f/flipped_e5221b4293440d21fc03c2837d9d0195.jpg_RESAMPLED_3eceaa6135d66a4f.png'>
+    <box top='71' left='82' width='99' height='99'/>
+  </image>
+  <image file='actresses/77921.jpg_RESAMPLED_a11159f44ab2953b.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='actresses/55171.jpg_RESAMPLED_8bff86f058758520.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='actresses/flipped_31554.jpg_RESAMPLED_581271993f41f2c9.png'>
+    <box top='91' left='90' width='69' height='69'/>
+  </image>
+  <image file='images/e9/flipped_d33070861cd4b60d362dce44f3b41bb8.jpg_RESAMPLED_4ed410959470abb5.png'>
+    <box top='68' left='81' width='99' height='99'/>
+  </image>
+  <image file='images/a5/flipped_e34caa33c1dbcd2da1f1293cf93eb446.jpg_RESAMPLED_de1d027aaf22763a.png'>
+    <box top='84' left='98' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/flipped_image51899.jpg_RESAMPLED_52edfd0dc3628561.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/95/8abbea3af2f50d50baac38a1ec4dab9f.jpg_RESAMPLED_3f19f1e78780eea7.png'>
+    <box top='81' left='70' width='83' height='83'/>
+  </image>
+  <image file='images/e6/flipped_3ddd9cc9880e2976d724bb3b283342a9.jpg_RESAMPLED_c7aefab4ad96f13b.png'>
+    <box top='78' left='88' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image69717.png_RESAMPLED_9c806722db1be6ec.png'>
+    <box top='76' left='77' width='99' height='99'/>
+  </image>
+  <image file='images/b1/flipped_0e2b4b25efbcd66649b4ca8ce93a1662.jpg_RESAMPLED_742d77075b1af090.png'>
+    <box top='69' left='84' width='99' height='99'/>
+  </image>
+  <image file='actresses/flipped_105912.jpg_RESAMPLED_da598eaab9da0650.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/flipped_image04908.jpg_RESAMPLED_5163abd4df3c452c.png'>
+    <box top='84' left='100' width='80' height='83'/>
+  </image>
+  <image file='data/flickr/3/flipped_image05510.jpg_RESAMPLED_8b51508ff0b01e62.png'>
+    <box top='84' left='83' width='83' height='82'/>
+    <box top='132' left='58' width='11' height='11' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image09897.jpg_RESAMPLED_60b8d5e384b7caf6.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/54/flipped_5cfa5504a1f9a439a87022f531e4715c.jpg_RESAMPLED_c4811a9530880448.png'>
+    <box top='87' left='100' width='71' height='69'/>
+    <box top='19' left='-27' width='84' height='83' ignore='1'/>
+    <box top='36' left='193' width='70' height='82'/>
+  </image>
+  <image file='actresses/flipped_49862.jpg_RESAMPLED_43667acd9ce5c43f.png'>
+    <box top='89' left='91' width='69' height='70'/>
+  </image>
+  <image file='actors/flipped_52511.jpg_RESAMPLED_cb0de7f0cd444085.png'>
+    <box top='95' left='86' width='69' height='66'/>
+  </image>
+  <image file='data/flickr/3/flipped_image20755.jpg_RESAMPLED_a285d1301b2089ef.png'>
+    <box top='74' left='75' width='99' height='99'/>
+    <box top='88' left='182' width='90' height='80' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image52417.jpg_RESAMPLED_affccd2007426ded.png'>
+    <box top='80' left='69' width='83' height='83'/>
+    <box top='59' left='20' width='15' height='14' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image36803.jpg_RESAMPLED_4963d7fc59f461df.png'>
+    <box top='76' left='74' width='99' height='99'/>
+    <box top='166' left='42' width='58' height='58'/>
+    <box top='159' left='-33' width='66' height='67' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/flipped_image12859.jpg_RESAMPLED_e549581b4ab40b4.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image12859.jpg_RESAMPLED_e549581b4ab40b4.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+</images>
+</dataset>

@@ -1,0 +1,2162 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>dlib face detection dataset 2016-09-30</name>
+<comment>This dataset is a collection face images cropped from many publicly available
+   image datasets (excluding the FDDB dataset).  In particular, there are images
+   from ImageNet, AFLW, Pascal VOC, the VGG dataset, WIDER, and face scrub.
+
+   Care was taken to make sure every face in each image was labeled.</comment>
+<images>
+  <image file='data/flickr/0/image22774.jpg_RESAMPLED_f836f17674a4c854.png'>
+    <box top='165' left='-9' width='83' height='83' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image56107.jpg_RESAMPLED_3d108fc6da69fed1.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_000323.jpg'>
+    <box top='52' left='128' width='119' height='119'/>
+    <box top='58' left='277' width='149' height='150'/>
+  </image>
+  <image file='data/flickr/0/image03462.jpg_RESAMPLED_da3da827024aa55c.png'>
+    <box top='85' left='85' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04443257/n04443257_4540.JPEG_RESAMPLED_a4a9dd429b663013.png'>
+    <box top='129' left='129' width='93' height='95'/>
+    <box top='192' left='256' width='25' height='27' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image27081.jpg_RESAMPLED_bc8728d9ab44ef75.png'>
+    <box top='66' left='66' width='119' height='119'/>
+  </image>
+  <image file='data/flickr/3/image19917.jpg_RESAMPLED_29a83fcf568b1571.png'>
+    <box top='112' left='171' width='58' height='58'/>
+    <box top='51' left='206' width='97' height='97' ignore='1'/>
+    <box top='84' left='80' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image14873.jpg_RESAMPLED_dcfbdd2d735dc7e1.png'>
+    <box top='79' left='87' width='85' height='88'/>
+  </image>
+  <image file='data/flickr/0/image21796.jpg_RESAMPLED_b28ad8d1b62a6604.png'>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='152' left='75' width='38' height='40'/>
+  </image>
+  <image file='data/flickr/2/image58684.jpg_RESAMPLED_7a48f410f2c3807d.png'>
+    <box top='71' left='73' width='98' height='94'/>
+  </image>
+  <image file='actors/78232.jpg_RESAMPLED_ac8d7a44f8f0957f.png'>
+    <box top='82' left='83' width='83' height='83'/>
+  </image>
+  <image file='actresses/62036.jpg_RESAMPLED_149830b8e95edae8.png'>
+    <box top='66' left='65' width='119' height='119'/>
+  </image>
+  <image file='data/flickr/3/image18208.jpg_RESAMPLED_d6e65b6f52062071.png'>
+    <box top='76' left='61' width='95' height='93'/>
+  </image>
+  <image file='images/e0/74c06c083a20c411174df8d51cd74643.jpg_RESAMPLED_e81c41090da18c11.png'>
+    <box top='71' left='70' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/val/ILSVRC2012_val_00019445.JPEG_RESAMPLED_2fac697165011c11.png'>
+    <box top='121' left='121' width='109' height='109'/>
+    <box top='239' left='255' width='63' height='62'/>
+    <box top='243' left='212' width='41' height='48' ignore='1'/>
+    <box top='273' left='172' width='44' height='44' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image19773.jpg_RESAMPLED_1ba15979f52365e5.png'>
+    <box top='-53' left='58' width='56' height='55' ignore='1'/>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image20769.jpg_RESAMPLED_57e906911f7ce062.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='150' left='183' width='90' height='90' ignore='1'/>
+    <box top='188' left='158' width='61' height='64' ignore='1'/>
+  </image>
+  <image file='images/4b/ad2e23b919ec90701c5048423556004d_RESAMPLED_7258fd4558976924.png'>
+    <box top='84' left='84' width='76' height='73'/>
+    <box top='152' left='10' width='41' height='40'/>
+  </image>
+  <image file='images/25/7fbbb529844f35613dc592ff23145209.jpg_RESAMPLED_d28cc2cb5444d81.png'>
+    <box top='70' left='69' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image17973.jpg_RESAMPLED_6d49c13199eb3de3.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/96/8f107cc8f9a741e84d13dc75c1478181.jpg_RESAMPLED_261b9e23148ccf61.png'>
+    <box top='75' left='71' width='83' height='83'/>
+    <box top='138' left='-44' width='73' height='79' ignore='1'/>
+  </image>
+  <image file='actresses/70801.jpg_RESAMPLED_6af7f0b884d5c9e4.png'>
+    <box top='89' left='90' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image20802.jpg_RESAMPLED_f65bb88947ebe5f1.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/76/e4f6f41d5221c4f34884cd0750c01f9f.jpg_RESAMPLED_582c44420e6e0b7.png'>
+    <box top='77' left='77' width='99' height='99' pose='3' detection_score='2'/>
+  </image>
+  <image file='data/flickr/0/image23672.jpg_RESAMPLED_e57c2c40f2762a8.png'>
+    <box top='222' left='-1' width='85' height='85' ignore='1'/>
+    <box top='82' left='88' width='69' height='71'/>
+    <box top='-17' left='1' width='93' height='77'/>
+  </image>
+  <image file='data/flickr/0/image17677.jpg_RESAMPLED_50a256626fad2eb2.png'>
+    <box top='80' left='84' width='83' height='80'/>
+  </image>
+  <image file='data/flickr/3/image45079.jpg_RESAMPLED_a56e5b9dea4d8ea4.png'>
+    <box top='97' left='149' width='42' height='44'/>
+    <box top='79' left='95' width='85' height='87'/>
+  </image>
+  <image file='data/flickr/0/image18152.jpg_RESAMPLED_908d248c681ae906.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image31842.jpg_RESAMPLED_bb68d43021888060.png'>
+    <box top='79' left='74' width='102' height='93'/>
+    <box top='37' left='-44' width='81' height='81' ignore='1'/>
+  </image>
+  <image file='images/51/45b764bcd920480552479a9723869a4a.jpg_RESAMPLED_d119fea5deff15eb.png'>
+    <box top='80' left='80' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image30879.jpg_RESAMPLED_e1d1fbc6d8c29fcc.png'>
+    <box top='75' left='-85' width='102' height='90' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image35955.jpg_RESAMPLED_ee9ebec435b88a56.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image35933.jpg_RESAMPLED_2ea15a4967b5f4b.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image71330.jpg_RESAMPLED_73ad8d8c37b4916.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='-39' left='-91' width='95' height='105' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image64130.jpg_RESAMPLED_40aab8a7c7050167.png'>
+    <box top='-73' left='-122' width='126' height='126' ignore='1'/>
+    <box top='89' left='90' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/image31217.jpg_RESAMPLED_31dce716e678a949.png'>
+    <box top='75' left='77' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image00929.jpg_RESAMPLED_295ecfa25fd7ff45.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image19729.jpg_RESAMPLED_43f1c875cbf5b198.png'>
+    <box top='65' left='70' width='99' height='99'/>
+    <box top='83' left='165' width='91' height='91'/>
+  </image>
+  <image file='data/flickr/0/image19255.jpg_RESAMPLED_3f71578efa498ba3.png'>
+    <box top='77' left='80' width='87' height='88'/>
+  </image>
+  <image file='data/flickr/2/image64191.jpg_RESAMPLED_fba72fc853de819b.png'>
+    <box top='177' left='167' width='17' height='18'/>
+    <box top='77' left='80' width='86' height='92'/>
+    <box top='110' left='197' width='31' height='34'/>
+    <box top='166' left='186' width='12' height='14'/>
+    <box top='137' left='198' width='44' height='43' ignore='1'/>
+    <box top='162' left='124' width='14' height='13' ignore='1'/>
+  </image>
+  <image file='images/93/2f5d28d94816a981fda495cd26530389.jpg_RESAMPLED_b0a2ae7333529e74.png'>
+    <box top='76' left='70' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image32067.jpg_RESAMPLED_68836748f1e767a1.png'>
+    <box top='77' left='76' width='81' height='88'/>
+  </image>
+  <image file='actresses/40092.png_RESAMPLED_60945f1055d0bf2c.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image55862.jpg_RESAMPLED_f2e0a5540050407.png'>
+    <box top='85' left='-49' width='135' height='135' ignore='1'/>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03187595/n03187595_343.JPEG_RESAMPLED_9b34dd19edb5b4d5.png'>
+    <box top='118' left='117' width='114' height='112'/>
+  </image>
+  <image file='images/22/4dcad678faf628b483ba209dc4adf910.jpg_RESAMPLED_a64676c3823f5bdd.png'>
+    <box top='85' left='78' width='83' height='83'/>
+    <box top='134' left='208' width='95' height='95' ignore='1'/>
+  </image>
+  <image file='images/e9/785f6eef5a95a09daedbe81d9341fc3f.jpg_RESAMPLED_159544708a18ce8f.png'>
+    <box top='71' left='72' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image54848.jpg_RESAMPLED_6b18cbfbe0485c27.png'>
+    <box top='72' left='59' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/3/image55088.jpg_RESAMPLED_58038d98a8a5468f.png'>
+    <box top='79' left='73' width='83' height='83'/>
+  </image>
+  <image file='images/6e/e41a3c3c2d34c9fd649e47da0bd77d6a.jpg_RESAMPLED_f688dc9689a759ea.png'>
+    <box top='79' left='74' width='83' height='83'/>
+  </image>
+  <image file='images/bc/28c49f8d2908e08d859578c50b9a89ca.jpg_RESAMPLED_74eaadc201abf655.png'>
+    <box top='83' left='83' width='83' height='83' pose='3' detection_score='3'/>
+  </image>
+  <image file='data/flickr/0/image21735.jpg_RESAMPLED_295e6be65c6c564f.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='199' left='66' width='136' height='136' ignore='1'/>
+    <box top='106' left='217' width='131' height='131' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image37485.jpg_RESAMPLED_a2e730fe4be9324c.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image19729.jpg_RESAMPLED_d068132514726c0d.png'>
+    <box top='1' left='6' width='75' height='71' ignore='1'/>
+    <box top='3' left='73' width='69' height='70'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21931.jpg_RESAMPLED_96e62967770b3514.png'>
+    <box top='84' left='84' width='79' height='75'/>
+    <box top='54' left='172' width='83' height='83'/>
+  </image>
+  <image file='actresses/30530.jpg_RESAMPLED_de8574b6a02778c9.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image21751.jpg_RESAMPLED_f926168d596ed05c.png'>
+    <box top='107' left='199' width='57' height='57'/>
+    <box top='89' left='95' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/3/image49533.jpg_RESAMPLED_10d0d31cf6f81a02.png'>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='60' left='145' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000367.jpg'>
+    <box top='92' left='357' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/3/image60597.jpg_RESAMPLED_ab30fbb158a17977.png'>
+    <box top='74' left='61' width='99' height='99'/>
+    <box top='68' left='236' width='112' height='112' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image43396.jpg_RESAMPLED_21969ea539c7347.png'>
+    <box top='73' left='78' width='95' height='104'/>
+  </image>
+  <image file='data/flickr/3/image39332.jpg_RESAMPLED_9d437ba234ae7f4.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image00696.jpg_RESAMPLED_ae4ae6559b1d6764.png'>
+    <box top='75' left='73' width='107' height='102'/>
+    <box top='244' left='217' width='99' height='104' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image35884.jpg_RESAMPLED_1df81f741243a9ee.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image20840.jpg_RESAMPLED_5cc10aa68f2a4d28.png'>
+    <box top='76' left='76' width='94' height='93'/>
+    <box top='57' left='165' width='86' height='89'/>
+    <box top='101' left='-43' width='100' height='114' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image64199.jpg_RESAMPLED_ee39adc07a7b331f.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image27267.jpg_RESAMPLED_a03489611cefa3e2.png'>
+    <box top='82' left='81' width='88' height='87'/>
+  </image>
+  <image file='data/flickr/3/image51353.jpg_RESAMPLED_46c9bd5faf1fb8d9.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image19618.jpg_RESAMPLED_e05ff6d46a2bd78b.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image67377.jpg_RESAMPLED_86800ab2572542f5.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image34298.jpg_RESAMPLED_2aea210ceba67835.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image65815.jpg_RESAMPLED_30cd290962be53eb.png'>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='115' left='-67' width='98' height='98' ignore='1'/>
+    <box top='80' left='215' width='98' height='98' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image22759.jpg_RESAMPLED_c0be9557b9d0f847.png'>
+    <box top='42' left='-47' width='99' height='99' ignore='1'/>
+    <box top='83' left='85' width='81' height='83'/>
+    <box top='221' left='37' width='61' height='61' ignore='1'/>
+    <box top='36' left='-59' width='99' height='99' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image43282.jpg_RESAMPLED_e26fba7c8b747329.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image34232.jpg_RESAMPLED_9321a4729ab8ecfe.png'>
+    <box top='96' left='8' width='53' height='51'/>
+    <box top='88' left='89' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/val/ILSVRC2012_val_00025386.JPEG_RESAMPLED_b47134f63fd17381.png'>
+    <box top='130' left='127' width='97' height='93'/>
+  </image>
+  <image file='data/flickr/3/image60614.jpg_RESAMPLED_dac105b49e02c2d5.png'>
+    <box top='79' left='-93' width='95' height='98' ignore='1'/>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image21546.jpg_RESAMPLED_b837282d80393b94.png'>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='174' left='34' width='57' height='58'/>
+  </image>
+  <image file='data/flickr/3/image20640.jpg_RESAMPLED_96af7ff92b99da45.png'>
+    <box top='80' left='73' width='79' height='77'/>
+  </image>
+  <image file='actresses/17394.JPG_RESAMPLED_bff14575f4f5ffc.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image42867.jpg_RESAMPLED_88c3abfcaefec4ec.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image06475.jpg_RESAMPLED_36368c76814c149f.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image34312.jpg_RESAMPLED_3fe3b4494acd4bc6.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image60775.jpg_RESAMPLED_73a52b6e6d45f7cd.png'>
+    <box top='80' left='78' width='94' height='93'/>
+    <box top='90' left='246' width='82' height='77' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image12687.jpg_RESAMPLED_77d560e9d5c84c00.png'>
+    <box top='84' left='101' width='82' height='83'/>
+  </image>
+  <image file='images/56/d91f3656d1944bf0cb0cfb9fd7b16300.jpg_RESAMPLED_ea59f7a15f8b7460.png'>
+    <box top='83' left='81' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image19227.jpg_RESAMPLED_af8cf40d32244f19.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/79/ee7d60fcf69d0739fc8a10cf50dceb98.jpg_RESAMPLED_c78a72217659c6e2.png'>
+    <box top='78' left='89' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image37159.jpg_RESAMPLED_f0fa6da1a0f38597.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image65800.jpg_RESAMPLED_65ebf452f44934a0.png'>
+    <box top='113' left='182' width='57' height='58'/>
+    <box top='73' left='69' width='94' height='97'/>
+    <box top='139' left='146' width='29' height='29'/>
+  </image>
+  <image file='images/c7/2ece8698c6c06a4094ecc00afe6e038b.jpg_RESAMPLED_ac6ed58b853a0419.png'>
+    <box top='78' left='91' width='79' height='83'/>
+  </image>
+  <image file='data/flickr/0/image04952.jpg_RESAMPLED_ad811f038e6f27a2.png'>
+    <box top='84' left='84' width='78' height='79'/>
+  </image>
+  <image file='data/flickr/2/image18825.jpg_RESAMPLED_d87100833c73169f.png'>
+    <box top='82' left='87' width='76' height='87'/>
+  </image>
+  <image file='images/9e/91ad60475cfd6d7baf508e1eb83a7d8f.jpg_RESAMPLED_ee0ea276d66e3473.png'>
+    <box top='87' left='86' width='62' height='60'/>
+  </image>
+  <image file='data/flickr/2/image15088.jpg_RESAMPLED_87090a0dd603e321.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/8d/67fc7073998474ad42fad3d97160ec95.jpg_RESAMPLED_60af2d6d003351d4.png'>
+    <box top='86' left='84' width='58' height='58'/>
+    <box top='79' left='1' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image56288.jpg_RESAMPLED_2fb1fb6d11e5baea.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='actresses/114262.jpg_RESAMPLED_4d430822ab8d353d.png'>
+    <box top='83' left='83' width='83' height='83'/>
+    <box top='81' left='206' width='93' height='89' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image18602.jpg_RESAMPLED_e9a27ebbe4acb1dc.png'>
+    <box top='67' left='74' width='103' height='117'/>
+    <box top='-13' left='247' width='45' height='43' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image68759.jpg_RESAMPLED_6aa171270ccc0a19.png'>
+    <box top='78' left='78' width='96' height='96'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_bfb107ae0471fd0.png'>
+    <box top='98' left='98' width='113' height='113'/>
+    <box top='211' left='186' width='142' height='137' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image30826.jpg_RESAMPLED_2ec64486aee0d4ef.png'>
+    <box top='82' left='78' width='73' height='77'/>
+  </image>
+  <image file='data/flickr/3/image44539.jpg_RESAMPLED_61bc039093750dd3.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image00081.jpg_RESAMPLED_1025d71bb2c6c892.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image56816.jpg_RESAMPLED_bb91e77080f6627a.png'>
+    <box top='84' left='81' width='89' height='82'/>
+    <box top='98' left='14' width='69' height='70'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02895154/n02895154_33891.JPEG_RESAMPLED_87c5f7f9f2986780.png'>
+    <box top='130' left='130' width='90' height='90'/>
+    <box top='-6' left='299' width='33' height='36' ignore='1'/>
+    <box top='10' left='262' width='27' height='30' ignore='1'/>
+    <box top='21' left='245' width='25' height='25' ignore='1'/>
+  </image>
+  <image file='images/c0/d10b3e69ea7bf676976f312e77916180.jpg_RESAMPLED_ba33a8a7620e6f3c.png'>
+    <box top='83' left='78' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image51553.jpg_RESAMPLED_801fb99f68ec397c.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/4d/50461c59568397b1067cedfbffbbb5a0.jpg_RESAMPLED_aba98a5bbc98b3a9.png'>
+    <box top='90' left='99' width='69' height='69'/>
+  </image>
+  <image file='images/a6/0cdb69cd35eb5d72161af2efcae30cc3_RESAMPLED_1cc5445e7b2370d5.png'>
+    <box top='83' left='69' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000298.jpg'>
+    <box top='157' left='157' width='41' height='40'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03535780/n03535780_10285.JPEG_RESAMPLED_35553b68df594582.png'>
+    <box top='121' left='121' width='113' height='113'/>
+  </image>
+  <image file='data/flickr/3/image57634.jpg_RESAMPLED_1ba387642245f3e8.png'>
+    <box top='80' left='81' width='89' height='91'/>
+  </image>
+  <image file='data/flickr/0/image22872.jpg_RESAMPLED_230eb628475d1f7b.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='7' left='207' width='139' height='145' ignore='1'/>
+  </image>
+  <image file='images/2c/b240a7c5395a1267f6a0c259e4166808.jpg_RESAMPLED_87a8872291b4171f.png'>
+    <box top='73' left='68' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image00696.jpg_RESAMPLED_ebf1e9326b004fad.png'>
+    <box top='68' left='71' width='111' height='117'/>
+  </image>
+  <image file='data/flickr/3/image20019.jpg_RESAMPLED_84c88e3c16577396.png'>
+    <box top='203' left='-391' width='510' height='510' ignore='1'/>
+    <box top='65' left='-57' width='74' height='74' ignore='1'/>
+    <box top='69' left='70' width='95' height='96'/>
+    <box top='96' left='197' width='83' height='83'/>
+  </image>
+  <image file='images/52/35513bad57fa5b95639be206526a60d9.jpg_RESAMPLED_b98169f6cf065df2.png'>
+    <box top='77' left='59' width='99' height='99'/>
+  </image>
+  <image file='images/31/2279f0004a6a25f9e57023828bda6b6a.jpg_RESAMPLED_18080770462737ac.png'>
+    <box top='78' left='81' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image19302.jpg_RESAMPLED_73bf20fc0ec34ccf.png'>
+    <box top='82' left='83' width='83' height='83'/>
+    <box top='230' left='58' width='93' height='94' ignore='1'/>
+    <box top='114' left='176' width='98' height='98' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image67135.jpg_RESAMPLED_26e4db69c4e5c451.png'>
+    <box top='83' left='79' width='85' height='83'/>
+  </image>
+  <image file='images/94/9ad54de310f976ae8a72486c681e002e.cms_RESAMPLED_695973352d152d42.png'>
+    <box top='90' left='91' width='69' height='70'/>
+    <box top='95' left='179' width='69' height='67'/>
+  </image>
+  <image file='data/flickr/3/image31327.jpg_RESAMPLED_35aca61638d8e3e6.png'>
+    <box top='75' left='58' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/2/image13684.jpg_RESAMPLED_f2423cff74f49ec1.png'>
+    <box top='77' left='77' width='99' height='99'/>
+  </image>
+  <image file='images/df/f67f08e9072a540b1727ef4a9e4bff6c.jpg_RESAMPLED_e651a1c5dde96d96.png'>
+    <box top='76' left='76' width='99' height='99' pose='2' detection_score='1'/>
+  </image>
+  <image file='data/flickr/2/image69895.jpg_RESAMPLED_2ec8c9d94d91e5b7.png'>
+    <box top='67' left='95' width='112' height='121'/>
+  </image>
+  <image file='data/flickr/0/image19996.jpg_RESAMPLED_2def20a518902209.png'>
+    <box top='92' left='-72' width='102' height='102' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image30283.jpg_RESAMPLED_69e11d84b5ab1161.png'>
+    <box top='83' left='76' width='84' height='75'/>
+  </image>
+  <image file='images/7d/afa610a36a3f05cdeb327729f4ef48bf.jpg_RESAMPLED_3ce2321d9f8928aa.png'>
+    <box top='85' left='86' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/3/image20518.jpg_RESAMPLED_2add6f25dcb56b22.png'>
+    <box top='89' left='95' width='69' height='69'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_b0d1065c00099ae0.png'>
+    <box top='93' left='93' width='112' height='112'/>
+    <box top='258' left='52' width='107' height='107' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image27120.jpg_RESAMPLED_e6fbc31217d2e114.png'>
+    <box top='80' left='82' width='84' height='91'/>
+    <box top='85' left='148' width='83' height='83'/>
+  </image>
+  <image file='images/6d/0dea86a774f02beae2aa79fc57054397.jpg_RESAMPLED_eb5437209b445282.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='26' left='167' width='123' height='116'/>
+  </image>
+  <image file='data/flickr/2/image25656.jpg_RESAMPLED_b4447d1cdcd2879e.png'>
+    <box top='89' left='85' width='65' height='69'/>
+    <box top='89' left='26' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/2/image49820.jpg_RESAMPLED_e19f7e3794acf4e3.png'>
+    <box top='83' left='82' width='83' height='83'/>
+    <box top='27' left='176' width='126' height='134' ignore='1'/>
+    <box top='19' left='8' width='34' height='33'/>
+    <box top='-15' left='114' width='63' height='58'/>
+  </image>
+  <image file='data/flickr/0/image66828.jpg_RESAMPLED_8b07d83ceb73f635.png'>
+    <box top='123' left='165' width='58' height='58'/>
+    <box top='72' left='64' width='99' height='99'/>
+    <box top='112' left='136' width='33' height='32'/>
+    <box top='126' left='211' width='48' height='48'/>
+  </image>
+  <image file='actors/37663.jpg_RESAMPLED_b0ea2e8f954c1283.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='actors/64217.jpg_RESAMPLED_9e4b65f10f680825.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/98/b542e479e3c72994d503501c6ada5e81.jpg_RESAMPLED_2639a9a6987225bf.png'>
+    <box top='103' left='177' width='48' height='48'/>
+    <box top='113' left='8' width='34' height='36' ignore='1'/>
+    <box top='82' left='81' width='74' height='76'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_2cc77e0e4cbb4099.png'>
+    <box top='103' left='115' width='88' height='96'/>
+    <box top='299' left='271' width='100' height='100' ignore='1'/>
+    <box top='28' left='45' width='82' height='79'/>
+  </image>
+  <image file='data/flickr/0/image19336.jpg_RESAMPLED_eceffd9e7342e528.png'>
+    <box top='75' left='82' width='89' height='89'/>
+    <box top='61' left='169' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image56099.jpg_RESAMPLED_f445df11bb213f09.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='48' left='-25' width='112' height='127' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image00288.jpg_RESAMPLED_540ee7b1a82b25f.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image20082.jpg_RESAMPLED_c29e7bc1ba4c8ae.png'>
+    <box top='87' left='86' width='76' height='75'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001221.jpg'>
+    <box top='86' left='230' width='49' height='49'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_c80790a4fd58fb54.png'>
+    <box top='112' left='108' width='92' height='93'/>
+    <box top='189' left='278' width='85' height='81' ignore='1'/>
+    <box top='137' left='-81' width='98' height='102' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image67382.jpg_RESAMPLED_4e06ee7b7fca5f72.png'>
+    <box top='83' left='84' width='83' height='83'/>
+    <box top='78' left='34' width='58' height='58'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04540053/n04540053_13635.JPEG_RESAMPLED_abfaca3292a732c4.png'>
+    <box top='135' left='131' width='97' height='88'/>
+  </image>
+  <image file='images/e9/de5ddb2434f5aeca20446f890b65efc1.jpeg_RESAMPLED_10106c9cecda6bd6.png'>
+    <box top='83' left='76' width='84' height='83'/>
+  </image>
+  <image file='data/flickr/0/image12961.jpg_RESAMPLED_2e2b73c3926c01ba.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/d5/1d76f054b43a51dd12c1ddca29093a8c.jpg_RESAMPLED_135bca823fd56c32.png'>
+    <box top='76' left='71' width='95' height='94'/>
+  </image>
+  <image file='data/flickr/3/image41691.jpg_RESAMPLED_1c4eab31855daf92.png'>
+    <box top='71' left='68' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image30548.jpg_RESAMPLED_aff88bccb384505d.png'>
+    <box top='80' left='81' width='89' height='91'/>
+  </image>
+  <image file='data/flickr/0/image02763.jpg_RESAMPLED_b6137751674beb00.png'>
+    <box top='68' left='71' width='108' height='116'/>
+  </image>
+  <image file='data/flickr/3/image20019.jpg_RESAMPLED_2738bbeb69e0ad4f.png'>
+    <box top='186' left='-278' width='399' height='399' ignore='1'/>
+    <box top='230' left='116' width='84' height='84' ignore='1'/>
+    <box top='83' left='-6' width='42' height='45'/>
+    <box top='82' left='85' width='74' height='75'/>
+    <box top='102' left='187' width='65' height='65'/>
+  </image>
+  <image file='data/flickr/2/image48628.jpg_RESAMPLED_b91df1e5624c1065.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_768b7e57ef217d52.png'>
+    <box top='123' left='-19' width='92' height='95' ignore='1'/>
+    <box top='30' left='272' width='92' height='92' ignore='1'/>
+    <box top='104' left='104' width='101' height='95'/>
+  </image>
+  <image file='data/flickr/2/image44579.jpg_RESAMPLED_da27fc2f396800d4.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image00211.jpg_RESAMPLED_e01ae624da19a387.png'>
+    <box top='76' left='77' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image34334.jpg_RESAMPLED_1fd5f3a5bfe1bf18.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02837789/n02837789_3638.JPEG_RESAMPLED_da82d69a3a07fd9a.png'>
+    <box top='130' left='127' width='96' height='91'/>
+    <box top='273' left='289' width='50' height='49' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image36970.jpg_RESAMPLED_1a998f394b9e4e3d.png'>
+    <box top='81' left='71' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image26980.jpg_RESAMPLED_9b4570a2d96b409a.png'>
+    <box top='74' left='69' width='97' height='100'/>
+    <box top='103' left='148' width='60' height='60' ignore='1'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02835271/n02835271_31221.JPEG_RESAMPLED_3b858f143c31255a.png'>
+    <box top='128' left='128' width='97' height='97'/>
+  </image>
+  <image file='data/flickr/0/image16562.jpg_RESAMPLED_c93e4cf20ef78f87.png'>
+    <box top='68' left='73' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image15955.jpg_RESAMPLED_2e928049af85cb0e.png'>
+    <box top='69' left='69' width='112' height='113'/>
+  </image>
+  <image file='data/flickr/3/image49450.jpg_RESAMPLED_4eb5e5395e474fa0.png'>
+    <box top='66' left='-17' width='97' height='93' ignore='1'/>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image33245.jpg_RESAMPLED_af64a2e3af6f320b.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image20259.jpg_RESAMPLED_172fe8fa71c601bd.png'>
+    <box top='-24' left='-129' width='144' height='144' ignore='1'/>
+    <box top='77' left='78' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image60818.jpg_RESAMPLED_92f919c0ea38e74d.png'>
+    <box top='79' left='66' width='83' height='83'/>
+    <box top='67' left='247' width='107' height='107' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image21298.jpg_RESAMPLED_17ddd19918690780.png'>
+    <box top='75' left='84' width='83' height='82'/>
+    <box top='208' left='-18' width='71' height='71' ignore='1'/>
+    <box top='154' left='189' width='78' height='76'/>
+  </image>
+  <image file='data/flickr/0/image65985.jpg_RESAMPLED_ea74ea7d8f3f721a.png'>
+    <box top='66' left='66' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/3/image50027.jpg_RESAMPLED_c228590446d5cce1.png'>
+    <box top='83' left='82' width='83' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_7ecbcd058c23cffc.png'>
+    <box top='114' left='110' width='92' height='95'/>
+    <box top='210' left='0' width='94' height='102' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image20163.jpg_RESAMPLED_1d3472c883906ffd.png'>
+    <box top='77' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/56/213ad827dc5ddeb9b5390c4e6b72eb88.jpg_RESAMPLED_f2b26b242e00a7e9.png'>
+    <box top='69' left='69' width='99' height='99'/>
+  </image>
+  <image file='images/21/37c6e1870f0e2051bbceef1041633f9e.jpg_RESAMPLED_6bf3ac20bd2ae10c.png'>
+    <box top='69' left='70' width='99' height='99'/>
+  </image>
+  <image file='actresses/61148.jpg_RESAMPLED_1cd27df2ede2d730.png'>
+    <box top='83' left='94' width='82' height='83'/>
+  </image>
+  <image file='data/flickr/3/image34678.jpg_RESAMPLED_38fb317210dc2bcc.png'>
+    <box top='80' left='64' width='83' height='83'/>
+  </image>
+  <image file='images/61/1164c81aacdeeb7d1f0b870187a2c07a.jpg_RESAMPLED_6e96211971e9560d.png'>
+    <box top='70' left='66' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image23108.jpg_RESAMPLED_32c1b55db2015b24.png'>
+    <box top='79' left='82' width='88' height='92'/>
+  </image>
+  <image file='data/flickr/3/image07561.jpg_RESAMPLED_35836e6116fb7a08.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03187595/n03187595_14763.JPEG_RESAMPLED_5b4ce7b44d6cde08.png'>
+    <box top='131' left='131' width='91' height='91'/>
+    <box top='15' left='258' width='80' height='76' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image04331.jpg_RESAMPLED_8790a05fde8f0ea1.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/bb/abb561c98c4cee8c0a5883c4526b2f4b.jpg_RESAMPLED_a4e58befb55914f6.png'>
+    <box top='83' left='92' width='76' height='76'/>
+  </image>
+  <image file='actresses/99224.jpg_RESAMPLED_df75d9cdd173cfe5.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_675.jpg_RESAMPLED_9958128fdb2435fc.png'>
+    <box top='97' left='97' width='111' height='111'/>
+    <box top='-106' left='-23' width='125' height='121' ignore='1'/>
+    <box top='188' left='-43' width='111' height='116' ignore='1'/>
+  </image>
+  <image file='images/c1/2fb03420d0fb7ada964fa29892045834.jpg_RESAMPLED_b8b9ccf987f75006.png'>
+    <box top='77' left='77' width='99' height='99' pose='4' detection_score='2'/>
+  </image>
+  <image file='data/flickr/0/image05075.jpg_RESAMPLED_4db01dabfa84ea22.png'>
+    <box top='86' left='95' width='69' height='71'/>
+  </image>
+  <image file='data/flickr/2/image30538.jpg_RESAMPLED_b39b3631a3e74d8f.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image12632.jpg_RESAMPLED_62a170255ed7b9ef.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/96/30946a0e14504bec90e33d8bd94b84c9.jpg_RESAMPLED_1b2273f82d16bf49.png'>
+    <box top='81' left='73' width='83' height='83'/>
+    <box top='129' left='210' width='47' height='48'/>
+    <box top='103' left='20' width='31' height='30' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image51887.jpg_RESAMPLED_a332fad7e914ea87.png'>
+    <box top='82' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image54212.jpg_RESAMPLED_f7e8ba793c9217ad.png'>
+    <box top='78' left='78' width='81' height='86'/>
+  </image>
+  <image file='data/flickr/0/image68251.jpg_RESAMPLED_a3e71cc67c50c10f.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='41' left='190' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/3/image20867.jpg_RESAMPLED_85f08bf6625843a8.png'>
+    <box top='81' left='80' width='91' height='89'/>
+    <box top='64' left='202' width='66' height='70' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image49611.jpg_RESAMPLED_b37f14ffa45ef55e.png'>
+    <box top='83' left='83' width='83' height='83'/>
+    <box top='94' left='231' width='78' height='78' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image50100.jpg_RESAMPLED_a1dabe968fe99310.png'>
+    <box top='-49' left='225' width='199' height='205' ignore='1'/>
+    <box top='-34' left='-48' width='146' height='180' ignore='1'/>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='actresses/69664.jpg_RESAMPLED_ee27505259b07126.png'>
+    <box top='74' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000514.jpg'>
+    <box top='123' left='179' width='57' height='58'/>
+    <box top='140' left='303' width='57' height='57'/>
+  </image>
+  <image file='images/fe/ec69a88b6502aeb27f4f6f8a5eaddcad.jpg_RESAMPLED_eb4ad7ccc43ab51c.png'>
+    <box top='82' left='81' width='69' height='68'/>
+  </image>
+  <image file='actresses/78359.jpg_RESAMPLED_572d48713e136522.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/db/95c118ce224d891143b275e2af2a6472.jpg_RESAMPLED_6ec076c64a87bc8a.png'>
+    <box top='76' left='75' width='99' height='99' pose='3' detection_score='2'/>
+  </image>
+  <image file='data/flickr/2/image19520.jpg_RESAMPLED_6f4dbae4fa6aed3f.png'>
+    <box top='37' left='-142' width='143' height='143' ignore='1'/>
+    <box top='85' left='85' width='83' height='83'/>
+  </image>
+  <image file='images/c2/be77896c4128d35909a621bde71a3888_RESAMPLED_2f8a49e788caf855.png'>
+    <box top='81' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image40863.jpg_RESAMPLED_8d54f9427a9fc442.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image19618.jpg_RESAMPLED_3334abeee5d151ae.png'>
+    <box top='84' left='82' width='83' height='79'/>
+  </image>
+  <image file='data/flickr/2/image24537.jpg_RESAMPLED_8f19500687b6cdfc.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image52365.jpg_RESAMPLED_65940ba01463560e.png'>
+    <box top='82' left='78' width='83' height='83'/>
+  </image>
+  <image file='images/36/126b484043c26429aa1862b3b4ddf03d.jpg_RESAMPLED_fd16e62fc807aa50.png'>
+    <box top='76' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image03252.jpg_RESAMPLED_f606a87e4e6a2ea2.png'>
+    <box top='73' left='77' width='96' height='104'/>
+  </image>
+  <image file='data/flickr/2/image67248.jpg_RESAMPLED_7536456e762b9f58.png'>
+    <box top='111' left='100' width='57' height='57'/>
+    <box top='117' left='182' width='36' height='37'/>
+    <box top='103' left='38' width='30' height='28'/>
+    <box top='79' left='225' width='38' height='40' ignore='1'/>
+  </image>
+  <image file='actresses/52194.jpg_RESAMPLED_8686c731b7d82358.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image40610.jpg_RESAMPLED_f41d8e44d5e9e25d.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='116' left='55' width='70' height='69'/>
+  </image>
+  <image file='data/flickr/2/image29400.jpg_RESAMPLED_8f697f7a894c1aa3.png'>
+    <box top='79' left='81' width='88' height='95'/>
+    <box top='203' left='-37' width='40' height='41' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image00374.jpg_RESAMPLED_d61a31378b39a4ad.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/6c/d8b25851c87437816581f79c1ef25900.jpg_RESAMPLED_34022814e26e678a.png'>
+    <box top='81' left='77' width='83' height='83'/>
+  </image>
+  <image file='images/91/0dd074606deb037f6ae60ecb2cd7b11e.jpg_RESAMPLED_5ab59c1fb4c7a0e9.png'>
+    <box top='69' left='68' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image16480.jpg_RESAMPLED_a46f1385f0c0a248.png'>
+    <box top='82' left='84' width='75' height='76'/>
+    <box top='117' left='26' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/3/image48427.jpg_RESAMPLED_5197ed50368e0c30.png'>
+    <box top='73' left='76' width='98' height='104'/>
+    <box top='77' left='169' width='102' height='108' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image64932.jpg_RESAMPLED_2ef2cc83387a561f.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image22103.jpg_RESAMPLED_8b5d952a590a6774.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='actresses/77113.jpg_RESAMPLED_b5c49568ee733d2e.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/ea/49df4297c8460ce168d9fb3ddb32b06b.jpg_RESAMPLED_b15a92b97f1d66e8.png'>
+    <box top='86' left='82' width='69' height='70'/>
+    <box top='-1' left='212' width='90' height='79' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image09900.jpg_RESAMPLED_c87e0de7e8b3b1c6.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image29945.jpg_RESAMPLED_9257aba306af23d9.png'>
+    <box top='71' left='75' width='98' height='107'/>
+  </image>
+  <image file='data/flickr/0/image20197.jpg_RESAMPLED_f1a851169a449bf4.png'>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='104' left='187' width='83' height='83' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image36371.jpg_RESAMPLED_27d780a71819eeb5.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image59630.jpg_RESAMPLED_17e2d587c0d35f42.png'>
+    <box top='88' left='73' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02791124/n02791124_2105.JPEG_RESAMPLED_1c11bff753adb09f.png'>
+    <box top='134' left='132' width='87' height='85'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02106382/n02106382_1603.JPEG_RESAMPLED_8bb3b755c467cc88.png'>
+    <box top='124' left='126' width='99' height='101'/>
+  </image>
+  <image file='images/ff/389a0a18a2c1629ee3bd3b505beea73c.jpg_RESAMPLED_f8d8c8b674858d05.png'>
+    <box top='71' left='68' width='95' height='98'/>
+    <box top='-3' left='188' width='87' height='69'/>
+  </image>
+  <image file='data/flickr/2/image24331.jpg_RESAMPLED_15834ceb116f531e.png'>
+    <box top='63' left='84' width='89' height='83'/>
+  </image>
+  <image file='data/flickr/3/image37896.jpg_RESAMPLED_4caddd6bfcd825a5.png'>
+    <box top='76' left='55' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/3/image20664.jpg_RESAMPLED_c76e80ee6d03d2ff.png'>
+    <box top='74' left='78' width='95' height='102'/>
+    <box top='199' left='200' width='50' height='45' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image34673.jpg_RESAMPLED_cbda018ea4009b8a.png'>
+    <box top='80' left='64' width='83' height='83'/>
+  </image>
+  <image file='images/2--Demonstration/2_Demonstration_Demonstration_Or_Protest_2_650.jpg_RESAMPLED_28d38d19e810bf68.png'>
+    <box top='29' left='56' width='17' height='17' ignore='1'/>
+    <box top='42' left='114' width='15' height='15' ignore='1'/>
+    <box top='70' left='163' width='14' height='14' ignore='1'/>
+    <box top='70' left='40' width='17' height='17' ignore='1'/>
+    <box top='137' left='57' width='20' height='20' ignore='1'/>
+    <box top='161' left='136' width='29' height='29' ignore='1'/>
+    <box top='123' left='172' width='24' height='24' ignore='1'/>
+    <box top='21' left='193' width='15' height='15' ignore='1'/>
+    <box top='73' left='262' width='17' height='17' ignore='1'/>
+    <box top='70' left='232' width='17' height='17' ignore='1'/>
+    <box top='211' left='244' width='29' height='29' ignore='1'/>
+    <box top='248' left='261' width='25' height='25' ignore='1'/>
+    <box top='79' left='421' width='16' height='16' ignore='1'/>
+    <box top='34' left='439' width='10' height='10' ignore='1'/>
+    <box top='28' left='397' width='9' height='9' ignore='1'/>
+    <box top='26' left='380' width='11' height='11' ignore='1'/>
+    <box top='19' left='300' width='15' height='15' ignore='1'/>
+    <box top='13' left='318' width='14' height='14' ignore='1'/>
+    <box top='70' left='282' width='17' height='17' ignore='1'/>
+    <box top='47' left='285' width='11' height='11' ignore='1'/>
+    <box top='8' left='353' width='9' height='9' ignore='1'/>
+    <box top='-10' left='336' width='14' height='14' ignore='1'/>
+    <box top='148' left='430' width='24' height='24'/>
+    <box top='123' left='350' width='21' height='20'/>
+  </image>
+  <image file='data/flickr/0/image20605.jpg_RESAMPLED_949cee08f31c29d4.png'>
+    <box top='84' left='84' width='80' height='79'/>
+  </image>
+  <image file='data/flickr/0/image21831.jpg_RESAMPLED_54068dd0d789a7.png'>
+    <box top='76' left='89' width='83' height='84'/>
+    <box top='196' left='104' width='76' height='74'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03447447/n03447447_6864.JPEG_RESAMPLED_66d5a61ff53cf42b.png'>
+    <box top='176' left='317' width='100' height='98' ignore='1'/>
+    <box top='105' left='-95' width='100' height='98' ignore='1'/>
+    <box top='136' left='134' width='85' height='83'/>
+  </image>
+  <image file='images/99/5bb3c056101512cbe5b94ba5ed22c56a.jpg_RESAMPLED_f9248f4f3af715c5.png'>
+    <box top='68' left='62' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image04820.jpg_RESAMPLED_f289567305ce92f.png'>
+    <box top='84' left='85' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image05982.jpg_RESAMPLED_1342fa35d8b068a7.png'>
+    <box top='71' left='78' width='94' height='96'/>
+  </image>
+  <image file='data/flickr/3/image26955.jpg_RESAMPLED_68e36e38931f788d.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='-28' left='235' width='39' height='41' ignore='1'/>
+  </image>
+  <image file='actors/87384.jpg_RESAMPLED_5f21ba3b401f9883.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image70380.jpg_RESAMPLED_8ce6e044b8672a11.png'>
+    <box top='82' left='84' width='83' height='87'/>
+  </image>
+  <image file='data/flickr/3/image33770.jpg_RESAMPLED_85df680bbe7e9d67.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000446.jpg'>
+    <box top='131' left='240' width='58' height='58'/>
+    <box top='194' left='144' width='41' height='40'/>
+    <box top='163' left='61' width='57' height='58'/>
+  </image>
+  <image file='data/flickr/2/image50100.jpg_RESAMPLED_a76558d3cf7e2575.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='16' left='5' width='69' height='71'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001113.jpg'>
+    <box top='104' left='153' width='69' height='69'/>
+    <box top='146' left='359' width='70' height='69'/>
+  </image>
+  <image file='data/flickr/3/image20329.jpg_RESAMPLED_aadff03dcea06213.png'>
+    <box top='176' left='218' width='54' height='54' ignore='1'/>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image53014.jpg_RESAMPLED_47323e940127e36.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='actresses/8359.jpg_RESAMPLED_678672676a504b80.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image42944.jpg_RESAMPLED_cd3b7f41fd76ec8c.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='3' left='234' width='102' height='93' ignore='1'/>
+  </image>
+  <image file='actresses/2060.jpg_RESAMPLED_db73dce33d7b6515.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image09751.jpg_RESAMPLED_8021eeaafcc199fe.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='212' left='150' width='99' height='99' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image67332.jpg_RESAMPLED_44397b01ea1036c.png'>
+    <box top='-69' left='-139' width='151' height='159' ignore='1'/>
+    <box top='79' left='89' width='83' height='83'/>
+    <box top='70' left='155' width='86' height='83' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image15655.jpg_RESAMPLED_6d9b8507f5f2cd71.png'>
+    <box top='72' left='52' width='100' height='99'/>
+  </image>
+  <image file='images/35--Basketball/35_Basketball_playingbasketball_35_27.jpg_RESAMPLED_27b8ffa64414f8de.png'>
+    <box top='287' left='395' width='36' height='36'/>
+    <box top='207' left='28' width='30' height='30' ignore='1'/>
+    <box top='348' left='37' width='39' height='39'/>
+    <box top='80' left='194' width='78' height='78' ignore='1'/>
+    <box top='33' left='308' width='40' height='40' ignore='1'/>
+    <box top='39' left='211' width='41' height='41' ignore='1'/>
+    <box top='39' left='146' width='46' height='46' ignore='1'/>
+    <box top='166' left='340' width='44' height='44' ignore='1'/>
+    <box top='180' left='404' width='29' height='30'/>
+  </image>
+  <image file='images/16/5ed01c9e2c1ea02af5c4773d7700e994.jpg_RESAMPLED_880c1a96d7eeab9b.png'>
+    <box top='77' left='77' width='83' height='83'/>
+    <box top='18' left='200' width='192' height='175' ignore='1'/>
+    <box top='48' left='-98' width='161' height='184' ignore='1'/>
+  </image>
+  <image file='images/1f/c60056ab41712cdd668618f9038524d7.jpg_RESAMPLED_45862f57008ac1a2.png'>
+    <box top='78' left='73' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image11763.jpg_RESAMPLED_8b56e182e603e3eb.png'>
+    <box top='81' left='95' width='72' height='74'/>
+    <box top='-8' left='19' width='74' height='77'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000036.jpg'>
+    <box top='86' left='314' width='37' height='37'/>
+  </image>
+  <image file='images/4f/28f6afeb40c7d4c6f7329c851c6a8bba.jpg_RESAMPLED_47588830fe8d489d.png'>
+    <box top='88' left='83' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image54916.jpg_RESAMPLED_70aaa5ac29b94621.png'>
+    <box top='75' left='74' width='99' height='99'/>
+    <box top='73' left='230' width='81' height='85' ignore='1'/>
+    <box top='75' left='-93' width='109' height='107' ignore='1'/>
+    <box top='84' left='-15' width='87' height='85' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image49600.jpg_RESAMPLED_f7fe72a43b5fbe0b.png'>
+    <box top='145' left='-92' width='95' height='97' ignore='1'/>
+    <box top='83' left='101' width='65' height='70'/>
+  </image>
+  <image file='images/65/de6c4f0c27f737e474f79b2c6867ad6a.jpg_RESAMPLED_6183e1e16e608359.png'>
+    <box top='92' left='92' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/2/image38739.jpg_RESAMPLED_69d13fb09d4728f0.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_006004.jpg'>
+    <box top='188' left='178' width='37' height='34'/>
+    <box top='166' left='138' width='33' height='31'/>
+  </image>
+  <image file='data/flickr/2/image67071.jpg_RESAMPLED_a23aaf280a255a55.png'>
+    <box top='77' left='75' width='99' height='99'/>
+    <box top='74' left='176' width='41' height='40'/>
+    <box top='99' left='-30' width='32' height='36' ignore='1'/>
+    <box top='141' left='151' width='33' height='32'/>
+    <box top='97' left='247' width='25' height='28' ignore='1'/>
+    <box top='64' left='223' width='26' height='29' ignore='1'/>
+    <box top='93' left='234' width='29' height='25' ignore='1'/>
+  </image>
+  <image file='images/29/eb77de8f544171be0c3a5807072aa7e8.jpg_RESAMPLED_4177688480d94d2c.png'>
+    <box top='74' left='63' width='99' height='99'/>
+  </image>
+  <image file='images/4f/d5cad00372d6bcf5e6e79a5f98f75c52.jpg_RESAMPLED_3e6368ef4ef93e7e.png'>
+    <box top='27' left='159' width='59' height='55' ignore='1'/>
+    <box top='71' left='71' width='85' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000829.jpg'>
+    <box top='169' left='252' width='58' height='58'/>
+    <box top='144' left='116' width='69' height='70'/>
+    <box top='105' left='320' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21023.jpg_RESAMPLED_8b07b18a691dec2f.png'>
+    <box top='73' left='78' width='94' height='104'/>
+  </image>
+  <image file='data/flickr/3/image18573.jpg_RESAMPLED_c99dfb0c7fbf90a6.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image43389.jpg_RESAMPLED_56b1924aee36b73d.png'>
+    <box top='77' left='80' width='90' height='96'/>
+  </image>
+  <image file='data/flickr/3/image07106.jpg_RESAMPLED_14cbb84d69254056.png'>
+    <box top='37' left='-56' width='117' height='131' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='-6' left='185' width='105' height='113' ignore='1'/>
+    <box top='175' left='188' width='119' height='121' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image49735.jpg_RESAMPLED_1dee2e9eb99ab41d.png'>
+    <box top='75' left='71' width='108' height='100'/>
+  </image>
+  <image file='data/flickr/0/image04897.jpg_RESAMPLED_6b3d8daa6f05cd74.png'>
+    <box top='82' left='75' width='81' height='80'/>
+  </image>
+  <image file='data/flickr/2/image66706.jpg_RESAMPLED_705904bc16833902.png'>
+    <box top='83' left='101' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_003581.jpg'>
+    <box top='45' left='356' width='48' height='49'/>
+    <box top='51' left='64' width='57' height='58'/>
+  </image>
+  <image file='data/flickr/3/image21298.jpg_RESAMPLED_5f3687615e943201.png'>
+    <box top='91' left='91' width='69' height='69'/>
+    <box top='7' left='-2' width='75' height='79'/>
+  </image>
+  <image file='data/flickr/2/image55737.jpg_RESAMPLED_1e5cdc0c4379b661.png'>
+    <box top='82' left='74' width='87' height='84'/>
+  </image>
+  <image file='data/flickr/2/image29579.jpg_RESAMPLED_7aa36b0ec5544fa4.png'>
+    <box top='49' left='159' width='58' height='58'/>
+    <box top='82' left='74' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image39188.jpg_RESAMPLED_392205d907503358.png'>
+    <box top='79' left='80' width='90' height='92'/>
+  </image>
+  <image file='Data/CLS-LOC/val/ILSVRC2012_val_00049038.JPEG_RESAMPLED_589f3b29cd0336e8.png'>
+    <box top='125' left='128' width='99' height='102'/>
+  </image>
+  <image file='images/06/f6bb60d9b7757b8ed7167244b0fb7231.jpg_RESAMPLED_f22b8f8ca0ecb2ad.png'>
+    <box top='70' left='73' width='99' height='99'/>
+    <box top='170' left='192' width='57' height='62' ignore='1'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001104.jpg'>
+    <box top='109' left='318' width='83' height='83'/>
+    <box top='161' left='61' width='70' height='69'/>
+  </image>
+  <image file='images/d8/8051ba19f65fc524601afcdf2246e6e7.jpg_RESAMPLED_dff48b527c75ddfb.png'>
+    <box top='79' left='74' width='73' height='75'/>
+    <box top='87' left='214' width='65' height='67'/>
+  </image>
+  <image file='images/aa/c5ea98b3baa6e480cafc17d36709a1a5.jpg_RESAMPLED_6618a0752631f2f4.png'>
+    <box top='76' left='80' width='83' height='83'/>
+  </image>
+  <image file='actresses/18682.jpg_RESAMPLED_45dd9de4374cd4d9.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image25322.jpg_RESAMPLED_216a73fd50b30372.png'>
+    <box top='83' left='103' width='82' height='83'/>
+    <box top='178' left='-2' width='14' height='19' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image40488.jpg_RESAMPLED_7b509665fa05aaa5.png'>
+    <box top='73' left='54' width='100' height='99'/>
+    <box top='66' left='192' width='113' height='113' ignore='1'/>
+  </image>
+  <image file='images/96/adeebe6234e32ebfcdabead53a11d950.jpg_RESAMPLED_35df927750f6d49a.png'>
+    <box top='76' left='76' width='99' height='99' pose='4' detection_score='3'/>
+  </image>
+  <image file='data/flickr/3/image46437.jpg_RESAMPLED_877dc3fd8c7a59cf.png'>
+    <box top='74' left='49' width='102' height='102'/>
+  </image>
+  <image file='data/flickr/0/image05370.jpg_RESAMPLED_e2a8c261f9711e56.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/84/32b0b94815e480635a5e7d11ad741de9.jpg_RESAMPLED_8bbd8b796e8e6a6f.png'>
+    <box top='72' left='64' width='99' height='99'/>
+  </image>
+  <image file='images/92/352a6d0bb96cd87c61db9bf6f041de65.jpg_RESAMPLED_d55865af44b4b746.png'>
+    <box top='76' left='92' width='82' height='86'/>
+  </image>
+  <image file='data/flickr/0/image70652.jpg_RESAMPLED_b336a60948c2e212.png'>
+    <box top='85' left='85' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image23374.jpg_RESAMPLED_8f618cf9ce99b207.png'>
+    <box top='134' left='20' width='83' height='83'/>
+    <box top='77' left='84' width='83' height='82'/>
+    <box top='162' left='153' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image03086.jpg_RESAMPLED_f61750aefec28988.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/c9/20f85456131a03e28050be34329eeab3.jpg_RESAMPLED_67137cdf406667a4.png'>
+    <box top='74' left='77' width='83' height='83'/>
+    <box top='110' left='212' width='49' height='48'/>
+  </image>
+  <image file='data/flickr/2/image02797.jpg_RESAMPLED_8c5ad20b05650a22.png'>
+    <box top='18' left='-17' width='99' height='99' ignore='1'/>
+    <box top='77' left='75' width='99' height='99'/>
+  </image>
+  <image file='actors/65235.jpg_RESAMPLED_16ed0e90bb02a0a3.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/28/79ffe34190242cf6d0ff59ffd795994d.jpg_RESAMPLED_d503cc4efce08242.png'>
+    <box top='79' left='73' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image32752.jpg_RESAMPLED_5e6b60fa148ac276.png'>
+    <box top='72' left='69' width='114' height='108'/>
+    <box top='147' left='171' width='108' height='105' ignore='1'/>
+  </image>
+  <image file='images/0a/37a22dd7372ab94944226560bb7087a6.jpg_RESAMPLED_84ab621fef0d4ceb.png'>
+    <box top='85' left='81' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image09134.jpg_RESAMPLED_e5da4aba7fa085ed.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='240' left='47' width='149' height='151' ignore='1'/>
+    <box top='57' left='175' width='190' height='187' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image03673.jpg_RESAMPLED_8c79ecce6939dffa.png'>
+    <box top='82' left='88' width='71' height='73'/>
+  </image>
+  <image file='data/flickr/3/image31094.jpg_RESAMPLED_abbb60da484958da.png'>
+    <box top='75' left='75' width='98' height='101'/>
+  </image>
+  <image file='data/flickr/3/image21058.jpg_RESAMPLED_e961bc90518e29f1.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/0d/bd6ebec55af18a6be9b6ba6115ba34f2.jpg_RESAMPLED_d4a32677d19a4d35.png'>
+    <box top='79' left='73' width='83' height='86'/>
+    <box top='123' left='-1' width='65' height='72'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001119.jpg'>
+    <box top='105' left='230' width='49' height='48'/>
+    <box top='-8' left='222' width='72' height='55'/>
+  </image>
+  <image file='data/flickr/2/image49960.jpg_RESAMPLED_c886d660a1e7b995.png'>
+    <box top='84' left='73' width='87' height='87'/>
+  </image>
+  <image file='data/flickr/0/image23203.jpg_RESAMPLED_8fc16174907c2c0.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image26671.jpg_RESAMPLED_85071846d8476d75.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image22323.jpg_RESAMPLED_eff37e478cb0360e.png'>
+    <box top='113' left='241' width='93' height='93' ignore='1'/>
+    <box top='79' left='60' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000268.jpg'>
+    <box top='1' left='75' width='76' height='73'/>
+    <box top='90' left='197' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/3/image41637.jpg_RESAMPLED_dc0cea757a707a00.png'>
+    <box top='70' left='66' width='100' height='99'/>
+  </image>
+  <image file='data/flickr/2/image68985.jpg_RESAMPLED_7e90c3095af98def.png'>
+    <box top='71' left='98' width='82' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_b801045874941db1.png'>
+    <box top='-64' left='4' width='109' height='109' ignore='1'/>
+    <box top='106' left='106' width='90' height='90'/>
+    <box top='36' left='239' width='109' height='109' ignore='1'/>
+    <box top='239' left='273' width='100' height='93' ignore='1'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000252.jpg'>
+    <box top='75' left='234' width='41' height='40'/>
+  </image>
+  <image file='data/flickr/2/image33903.jpg_RESAMPLED_6b43b8aacac4bdd.png'>
+    <box top='56' left='192' width='141' height='136' ignore='1'/>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='actresses/106224.jpg_RESAMPLED_19f514e8b04ff794.png'>
+    <box top='91' left='91' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/3/image06407.jpg_RESAMPLED_36b13350901b4e4.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image13478.jpg_RESAMPLED_a6feaa26e0ba6c4e.png'>
+    <box top='74' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image21443.jpg_RESAMPLED_39e3bb86d41a87a7.png'>
+    <box top='104' left='-54' width='99' height='100' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image51899.jpg_RESAMPLED_52edfd0dc3628561.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image23958.jpg_RESAMPLED_de1629391ab909e3.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21831.jpg_RESAMPLED_cef502832fe00120.png'>
+    <box top='-65' left='97' width='88' height='87' ignore='1'/>
+    <box top='82' left='95' width='68' height='70'/>
+  </image>
+  <image file='data/flickr/0/image70124.png_RESAMPLED_591ee6d6db439b40.png'>
+    <box top='113' left='143' width='56' height='55' ignore='1'/>
+    <box top='84' left='94' width='69' height='72'/>
+  </image>
+  <image file='data/flickr/3/image31605.jpg_RESAMPLED_ebb97077cfe8d020.png'>
+    <box top='76' left='68' width='89' height='87'/>
+  </image>
+  <image file='images/17/d0524d0335b0e6a735293c7423932704.jpg_RESAMPLED_358815d4bd9ef132.png'>
+    <box top='72' left='66' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image26266.jpg_RESAMPLED_2ed2e94744a35117.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image07926.jpg_RESAMPLED_d11aec3ada89e342.png'>
+    <box top='89' left='81' width='69' height='69'/>
+  </image>
+  <image file='images/52/4b2d211b3588e93c475080905e70bbf6.jpg_RESAMPLED_63eff0922a9209f7.png'>
+    <box top='72' left='70' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001098.jpg'>
+    <box top='59' left='109' width='83' height='83'/>
+  </image>
+  <image file='actors/75986.jpg_RESAMPLED_2484a87aa3f829d2.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image21298.jpg_RESAMPLED_4ce3f041b9c8aa1b.png'>
+    <box top='-142' left='228' width='149' height='149' ignore='1'/>
+    <box top='67' left='67' width='115' height='115'/>
+  </image>
+  <image file='data/flickr/3/image32752.jpg_RESAMPLED_a4ebf366cd410c62.png'>
+    <box top='19' left='-7' width='97' height='91' ignore='1'/>
+    <box top='82' left='80' width='91' height='89'/>
+  </image>
+  <image file='images/80/9121afcf3b88b6e20b2eff6fd3794915.jpg_RESAMPLED_84b3f01aede1ddca.png'>
+    <box top='88' left='82' width='69' height='70'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_006163.jpg'>
+    <box top='121' left='149' width='53' height='52'/>
+  </image>
+  <image file='actresses/55544.jpg_RESAMPLED_f8a89394787fea89.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image35409.jpg_RESAMPLED_38cc835e3ff50270.png'>
+    <box top='66' left='60' width='99' height='99'/>
+    <box top='88' left='131' width='87' height='87'/>
+  </image>
+  <image file='images/df/563eb984a0a3917d244c5cc7056e57a9.jpg_RESAMPLED_6112718975e58f93.png'>
+    <box top='83' left='83' width='83' height='83' pose='4' detection_score='1'/>
+  </image>
+  <image file='data/flickr/2/image64823.jpg_RESAMPLED_87f609653156f8fd.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='actresses/98370.jpg_RESAMPLED_56f76814b48f2d1f.png'>
+    <box top='57' left='-74' width='104' height='104' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image51798.jpg_RESAMPLED_959b88f089f7bc46.png'>
+    <box top='79' left='191' width='76' height='82' ignore='1'/>
+    <box top='71' left='75' width='100' height='109'/>
+  </image>
+  <image file='images/52/2f5c44ea2b598159dcace8f6c6021782.JPG_RESAMPLED_a2df679c1398923b.png'>
+    <box top='84' left='74' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image15695.jpg_RESAMPLED_e91819816aec2cbc.png'>
+    <box top='78' left='76' width='98' height='94'/>
+  </image>
+  <image file='data/flickr/3/image54916.jpg_RESAMPLED_f9fd7fe7a76c884f.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='-64' left='163' width='70' height='70' ignore='1'/>
+    <box top='-65' left='38' width='80' height='78' ignore='1'/>
+    <box top='-3' left='-100' width='113' height='120' ignore='1'/>
+    <box top='-59' left='96' width='64' height='62' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image22347.jpg_RESAMPLED_b3ece35e0498da40.png'>
+    <box top='-54' left='-12' width='126' height='126' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='-124' left='242' width='141' height='141' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image49798.jpg_RESAMPLED_14d7e6540da6c891.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image34628.jpg_RESAMPLED_e390641fd34321fc.png'>
+    <box top='75' left='76' width='99' height='101'/>
+  </image>
+  <image file='images/62/9b8e1058ec0edd6fd7bc6013d2919a69.JPG_RESAMPLED_7dc1f4481aea68ce.png'>
+    <box top='78' left='89' width='87' height='82'/>
+  </image>
+  <image file='data/flickr/3/image60784.jpg_RESAMPLED_c7ad220ff8ceba93.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image09295.jpg_RESAMPLED_df586449de06e12b.png'>
+    <box top='77' left='75' width='77' height='81'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03721384/n03721384_21061.JPEG_RESAMPLED_fa08fc656274384e.png'>
+    <box top='1' left='-55' width='91' height='95' ignore='1'/>
+    <box top='135' left='132' width='87' height='83'/>
+    <box top='24' left='239' width='79' height='83' ignore='1'/>
+    <box top='63' left='75' width='48' height='44'/>
+    <box top='59' left='178' width='44' height='44'/>
+    <box top='32' left='317' width='44' height='40' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image17545.jpg_RESAMPLED_dafeea05676b4f61.png'>
+    <box top='86' left='98' width='72' height='75'/>
+  </image>
+  <image file='data/flickr/0/image65735.jpg_RESAMPLED_822959f334df9ce6.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image08961.jpg_RESAMPLED_41ea04766f427f62.png'>
+    <box top='81' left='67' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image22872.jpg_RESAMPLED_1c4b1dcf60fafec1.png'>
+    <box top='126' left='-2' width='58' height='58' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='119' left='155' width='89' height='107' ignore='1'/>
+    <box top='218' left='235' width='142' height='139' ignore='1'/>
+  </image>
+  <image file='actresses/89341.jpg_RESAMPLED_a61109ce7c6783db.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/dc/0091c8bd142406ea63fa0dd62b9b3e86_RESAMPLED_505b3cee0792e813.png'>
+    <box top='76' left='64' width='99' height='99'/>
+  </image>
+  <image file='images/b0/ebe2ba4ef945289f08f26429dae82298.jpg_RESAMPLED_41a47a34dbbd6942.png'>
+    <box top='77' left='76' width='83' height='83'/>
+  </image>
+  <image file='actors/28329.jpg_RESAMPLED_5a754f60c61fce5b.png'>
+    <box top='66' left='66' width='119' height='119'/>
+  </image>
+  <image file='images/01/42dda9dd5d94a4be0186e552714c279d.jpg_RESAMPLED_ee2cc56a415e8799.png'>
+    <box top='80' left='74' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image49611.jpg_RESAMPLED_3974af0de9d4c920.png'>
+    <box top='59' left='-111' width='112' height='112' ignore='1'/>
+    <box top='84' left='84' width='83' height='83'/>
+    <box top='55' left='212' width='110' height='110' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image18923.jpg_RESAMPLED_bfbd009073d58f6e.png'>
+    <box top='82' left='85' width='82' height='86'/>
+  </image>
+  <image file='images/35--Basketball/35_Basketball_basketballgame_ball_35_30.jpg_RESAMPLED_8b8707709f7297d8.png'>
+    <box top='103' left='103' width='95' height='95'/>
+    <box top='-15' left='190' width='56' height='55'/>
+    <box top='204' left='218' width='66' height='67'/>
+    <box top='97' left='218' width='66' height='66'/>
+    <box top='-32' left='240' width='56' height='55' ignore='1'/>
+    <box top='68' left='44' width='81' height='73'/>
+    <box top='55' left='224' width='58' height='55'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03838899/n03838899_31999.JPEG_RESAMPLED_4917f02076062cc6.png'>
+    <box top='131' left='127' width='97' height='86'/>
+  </image>
+  <image file='data/flickr/2/image52043.jpg_RESAMPLED_e6dd3ca5e055dd10.png'>
+    <box top='56' left='11' width='138' height='137'/>
+    <box top='56' left='90' width='99' height='99'/>
+  </image>
+  <image file='images/38/d15c1d9be639d2f095198f6f8ea27ea8.jpg_RESAMPLED_e35c1fb0a91eabe0.png'>
+    <box top='89' left='81' width='72' height='70'/>
+  </image>
+  <image file='data/flickr/3/image29074.jpg_RESAMPLED_5caba4344bfce530.png'>
+    <box top='34' left='-51' width='111' height='118' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/7--Cheering/7_Cheering_Cheering_7_71.jpg_RESAMPLED_24ac3a88966bb358.png'>
+    <box top='106' left='102' width='96' height='92'/>
+  </image>
+  <image file='data/flickr/3/image40929.jpg_RESAMPLED_a0be99da4966d19f.png'>
+    <box top='-89' left='50' width='98' height='92' ignore='1'/>
+    <box top='85' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/46/76090c102b103f739eab54ff25996a98.jpg_RESAMPLED_b8496b63ae399199.png'>
+    <box top='77' left='77' width='99' height='99' pose='4' detection_score='1'/>
+  </image>
+  <image file='data/flickr/0/image23136.jpg_RESAMPLED_60fb61553fe5a5c2.png'>
+    <box top='79' left='83' width='83' height='81'/>
+  </image>
+  <image file='data/flickr/0/image64107.jpg_RESAMPLED_b2778ed09f57cbc1.png'>
+    <box top='114' left='250' width='89' height='89' ignore='1'/>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21107.jpg_RESAMPLED_ee1e3ba95876e818.png'>
+    <box top='192' left='-122' width='137' height='137' ignore='1'/>
+    <box top='87' left='92' width='69' height='71'/>
+  </image>
+  <image file='data/flickr/2/image36352.jpg_RESAMPLED_ff65c9190c8bbb96.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image34457.jpg_RESAMPLED_5c152cc1dfcbeb6f.png'>
+    <box top='75' left='76' width='90' height='89'/>
+    <box top='84' left='37' width='46' height='48'/>
+    <box top='70' left='-40' width='103' height='112'/>
+  </image>
+  <image file='actors/84340.jpg_RESAMPLED_23cd2caf63c0d831.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000673.jpg'>
+    <box top='36' left='204' width='41' height='40'/>
+    <box top='92' left='201' width='27' height='25'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000726.jpg'>
+    <box top='126' left='77' width='92' height='86'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04540053/n04540053_13635.JPEG_RESAMPLED_3c44b593b1bcd5f6.png'>
+    <box top='124' left='122' width='109' height='106'/>
+  </image>
+  <image file='images/10/2f2de7678cb3deaba9d90d18430c4350.jpg_RESAMPLED_5f3e78c8a9647635.png'>
+    <box top='87' left='92' width='69' height='70'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_001034.jpg'>
+    <box top='126' left='155' width='41' height='40'/>
+    <box top='145' left='293' width='29' height='28'/>
+    <box top='127' left='343' width='36' height='34'/>
+    <box top='112' left='253' width='41' height='40'/>
+  </image>
+  <image file='data/flickr/2/image65721.jpg_RESAMPLED_4d547f08a1b7ffad.png'>
+    <box top='248' left='213' width='57' height='57' ignore='1'/>
+    <box top='214' left='155' width='22' height='26' ignore='1'/>
+    <box top='78' left='73' width='83' height='90'/>
+    <box top='209' left='90' width='21' height='22' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image46265.jpg_RESAMPLED_2f93bd0d7a2c392b.png'>
+    <box top='33' left='-53' width='56' height='56' ignore='1'/>
+    <box top='82' left='88' width='73' height='72'/>
+  </image>
+  <image file='images/44/ed2f44e661ff33ea969b09da95117e49.jpg_RESAMPLED_bc0906e79b4669.png'>
+    <box top='75' left='75' width='99' height='99' pose='3' detection_score='2'/>
+  </image>
+  <image file='data/flickr/2/image06815.jpg_RESAMPLED_b7b48a5a1422d772.png'>
+    <box top='83' left='94' width='82' height='83'/>
+  </image>
+  <image file='images/c5/cdec36df4d7439e8956be98b51960041.jpg_RESAMPLED_e79d14420f0d6701.png'>
+    <box top='72' left='72' width='99' height='99'/>
+  </image>
+  <image file='images/a5/e34caa33c1dbcd2da1f1293cf93eb446.jpg_RESAMPLED_de1d027aaf22763a.png'>
+    <box top='84' left='83' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/image47348.jpg_RESAMPLED_e59224fe5038e66d.png'>
+    <box top='81' left='101' width='85' height='81'/>
+  </image>
+  <image file='images/95/511e05b2fd4a17a4aa13d33c2580798a_RESAMPLED_6f208aecc12f5386.png'>
+    <box top='76' left='63' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000380.jpg'>
+    <box top='268' left='232' width='41' height='40'/>
+    <box top='280' left='91' width='41' height='40'/>
+    <box top='219' left='401' width='49' height='48'/>
+  </image>
+  <image file='data/flickr/3/image01878.jpg_RESAMPLED_f9e4884953807638.png'>
+    <box top='79' left='73' width='85' height='83'/>
+  </image>
+  <image file='images/75/20d474a3edcd23d7e7fe6b7890d2b0a0.jpg_RESAMPLED_2000d8ff7f1f79e8.png'>
+    <box top='72' left='66' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image25893.jpg_RESAMPLED_83ee1d522d2205ff.png'>
+    <box top='63' left='124' width='107' height='109'/>
+    <box top='74' left='51' width='103' height='104'/>
+  </image>
+  <image file='data/flickr/2/image14099.jpg_RESAMPLED_36c83ac0dba0aa88.png'>
+    <box top='83' left='83' width='82' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03832673/n03832673_3911.JPEG_RESAMPLED_dd0c34417c1f7716.png'>
+    <box top='125' left='127' width='97' height='101'/>
+  </image>
+  <image file='data/flickr/3/image41038.jpg_RESAMPLED_8b7304a0e0811f8.png'>
+    <box top='80' left='71' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image23012.jpg_RESAMPLED_82290cc4535b76f.png'>
+    <box top='69' left='66' width='111' height='108'/>
+    <box top='53' left='173' width='100' height='104'/>
+  </image>
+  <image file='data/flickr/3/image30017.jpg_RESAMPLED_591d9babed947bd9.png'>
+    <box top='75' left='75' width='92' height='87'/>
+  </image>
+  <image file='data/flickr/3/image26235.jpg_RESAMPLED_7a4db5f76d70d6c5.png'>
+    <box top='76' left='86' width='89' height='86'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03255030/n03255030_8881.JPEG_RESAMPLED_63d29c4f7ff83dbf.png'>
+    <box top='128' left='127' width='96' height='97'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04270147/n04270147_5173.JPEG_RESAMPLED_9327892308ab5d62.png'>
+    <box top='220' left='260' width='112' height='112' ignore='1'/>
+    <box top='120' left='118' width='115' height='111'/>
+  </image>
+  <image file='data/flickr/3/image52417.jpg_RESAMPLED_1ab4ee0412a42904.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='46' left='20' width='17' height='17'/>
+  </image>
+  <image file='data/flickr/3/image31258.jpg_RESAMPLED_bb41d920e71df63f.png'>
+    <box top='83' left='73' width='82' height='83'/>
+  </image>
+  <image file='data/flickr/0/image06433.jpg_RESAMPLED_fa973b5544c46813.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image22002.jpg_RESAMPLED_d289f97849c19d0c.png'>
+    <box top='-78' left='31' width='91' height='91' ignore='1'/>
+    <box top='10' left='123' width='75' height='77'/>
+    <box top='-32' left='170' width='74' height='74' ignore='1'/>
+    <box top='27' left='195' width='77' height='77' ignore='1'/>
+    <box top='10' left='41' width='89' height='89' ignore='1'/>
+    <box top='89' left='88' width='69' height='69'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02672831/n02672831_14400.JPEG_RESAMPLED_5a2433285d3a173.png'>
+    <box top='131' left='131' width='89' height='89'/>
+  </image>
+  <image file='data/flickr/3/image53650.jpg_RESAMPLED_971fea2cdb5e9d71.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image60981.jpg_RESAMPLED_18e41337c3a5e4d8.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image27461.jpg_RESAMPLED_a1b6153aadb1cb9d.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/7a/d6a23b03ec154d7ff422b1005e82544b.jpg_RESAMPLED_c9d5c3ae8c2b8a59.png'>
+    <box top='83' left='84' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/image54796.jpg_RESAMPLED_c228a9677faa235c.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_2a7f6f5710750870.png'>
+    <box top='111' left='106' width='97' height='97'/>
+    <box top='235' left='-28' width='152' height='147' ignore='1'/>
+    <box top='83' left='-37' width='110' height='110' ignore='1'/>
+    <box top='110' left='157' width='88' height='96' ignore='1'/>
+  </image>
+  <image file='images/cb/7833b585bd9b07bc2f439e92e4408022.jpg_RESAMPLED_5c863e8d73014f2d.png'>
+    <box top='72' left='72' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_004476.jpg'>
+    <box top='158' left='216' width='83' height='83'/>
+    <box top='119' left='387' width='83' height='82'/>
+    <box top='138' left='27' width='70' height='70'/>
+  </image>
+  <image file='actors/54047.jpg_RESAMPLED_b65e39d24960e9a2.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/26/05b93fe6fb2ae6e7d777f78f51e1f15d.jpg_RESAMPLED_3ebbefbcd85c4cc3.png'>
+    <box top='76' left='73' width='83' height='83'/>
+  </image>
+  <image file='images/d4/2ed81f9b630eb24d67029b4651c9de76.jpg_RESAMPLED_36e8d0baaac084b4.png'>
+    <box top='78' left='75' width='83' height='83'/>
+  </image>
+  <image file='images/d2/2b4d6fce12d4bc6d470401973d223e67.jpg_RESAMPLED_eb9782fc025fbc6.png'>
+    <box top='83' left='83' width='83' height='83' pose='6' detection_score='2'/>
+  </image>
+  <image file='images/db/6937652483aef251b69fd76d2da82184.jpg_RESAMPLED_c8733f5e03289fcb.png'>
+    <box top='84' left='84' width='83' height='83' pose='4' detection_score='1'/>
+  </image>
+  <image file='images/7--Cheering/7_Cheering_Cheering_7_71.jpg_RESAMPLED_20ddf80e16f115e4.png'>
+    <box top='104' left='98' width='109' height='103'/>
+    <box top='-109' left='76' width='114' height='114' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image23381.jpg_RESAMPLED_9883b9bece3a9c3b.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/62/f1c1095f6da0fce431f14c0ce56b089c.jpg_RESAMPLED_cb203b55f19120df.png'>
+    <box top='75' left='75' width='99' height='99' pose='4' detection_score='3'/>
+  </image>
+  <image file='data/flickr/3/image07303.jpg_RESAMPLED_76702a2ca7d590f.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image20490.jpg_RESAMPLED_45df1bb847c6e102.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image20754.jpg_RESAMPLED_4b6b1e524bfebf89.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='actresses/28994.jpg_RESAMPLED_80041637ca44f5ed.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_007420.jpg'>
+    <box top='115' left='253' width='58' height='58'/>
+  </image>
+  <image file='actresses/91640.jpg_RESAMPLED_407d97997419d324.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image31767.jpg_RESAMPLED_bc898c9df1cfa4ca.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='images/7d/8817850505c41cf8ec346c6a2307deb4.jpg_RESAMPLED_9ce9edf66b631b00.png'>
+    <box top='76' left='76' width='99' height='99' pose='3' detection_score='3'/>
+  </image>
+  <image file='data/flickr/0/image21566.jpg_RESAMPLED_7e65514e6b94e9a7.png'>
+    <box top='119' left='-76' width='91' height='91' ignore='1'/>
+    <box top='88' left='89' width='72' height='73'/>
+  </image>
+  <image file='data/flickr/3/image32475.jpg_RESAMPLED_e8e7afef30663d1e.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image51046.jpg_RESAMPLED_5d8471ca90b756cd.png'>
+    <box top='80' left='84' width='84' height='90'/>
+  </image>
+  <image file='data/flickr/3/image37688.jpg_RESAMPLED_e2e72a61346feb1.png'>
+    <box top='73' left='63' width='96' height='90'/>
+  </image>
+  <image file='data/flickr/2/image13402.jpg_RESAMPLED_a18ba1f9be3c4f97.png'>
+    <box top='-4' left='-49' width='73' height='73' ignore='1'/>
+    <box top='72' left='77' width='96' height='107'/>
+  </image>
+  <image file='data/flickr/3/image60879.jpg_RESAMPLED_25259ec61fec7a4b.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/a8/96b908e8b39664d41a20b73dc672cda3.jpg_RESAMPLED_9335a232b301ec95.png'>
+    <box top='77' left='66' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image67197.jpg_RESAMPLED_9e400e750c396af2.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='62' left='-2' width='69' height='69'/>
+  </image>
+  <image file='data/flickr/3/image19773.jpg_RESAMPLED_e146cfd514206b27.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image15667.jpg_RESAMPLED_29e8b4583a8e703c.png'>
+    <box top='74' left='73' width='102' height='102'/>
+  </image>
+  <image file='data/flickr/3/image50279.jpg_RESAMPLED_27d5263b01cfe3df.png'>
+    <box top='77' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image10104.jpg_RESAMPLED_d8f06b47531c09b.png'>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/d1/943612d5d24185b6cb3f77c3a2b6c87f.jpg_RESAMPLED_b703e75d74fbe6e3.png'>
+    <box top='75' left='73' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_007119.jpg'>
+    <box top='41' left='123' width='171' height='171'/>
+  </image>
+  <image file='data/flickr/2/image66615.jpg_RESAMPLED_813d935bb542638e.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='148' left='121' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image19022.jpg_RESAMPLED_21fa95d7adec77ba.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03710637/n03710637_4025.JPEG_RESAMPLED_5fe570f9743f9a3e.png'>
+    <box top='127' left='125' width='103' height='101'/>
+  </image>
+  <image file='images/31/c154107417e78d2524882282a526634f.jpg_RESAMPLED_80f76e5f43ac095b.png'>
+    <box top='63' left='67' width='99' height='99'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_a4bb8c5e6b8dc934.png'>
+    <box top='241' left='82' width='139' height='136' ignore='1'/>
+    <box top='268' left='234' width='116' height='116' ignore='1'/>
+    <box top='92' left='92' width='116' height='116'/>
+  </image>
+  <image file='data/flickr/0/image00862.jpg_RESAMPLED_4f021f555e599706.png'>
+    <box top='81' left='81' width='88' height='88'/>
+  </image>
+  <image file='data/flickr/0/image66488.jpg_RESAMPLED_262e65d9d14f8a23.png'>
+    <box top='85' left='85' width='83' height='83'/>
+    <box top='205' left='-19' width='58' height='58' ignore='1'/>
+    <box top='201' left='249' width='48' height='44' ignore='1'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000435.jpg'>
+    <box top='193' left='187' width='41' height='40'/>
+    <box top='40' left='261' width='58' height='58'/>
+    <box top='63' left='138' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/3/image29136.jpg_RESAMPLED_161ac4b0fdc2d356.png'>
+    <box top='81' left='65' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image36478.jpg_RESAMPLED_de158af4722c38.png'>
+    <box top='70' left='59' width='98' height='105'/>
+  </image>
+  <image file='data/flickr/2/image63035.jpg_RESAMPLED_77449c00a18be321.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='actors/74567.jpg_RESAMPLED_ea29c1ccca0e6c44.png'>
+    <box top='83' left='93' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/image20655.jpg_RESAMPLED_66260458b11acc5.png'>
+    <box top='83' left='84' width='83' height='83'/>
+    <box top='138' left='-73' width='84' height='92' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image00831.jpg_RESAMPLED_21a18abf3e0c7e34.png'>
+    <box top='69' left='69' width='113' height='113'/>
+  </image>
+  <image file='data/flickr/3/image24875.jpg_RESAMPLED_d82a58763e16dc41.png'>
+    <box top='79' left='91' width='84' height='86'/>
+  </image>
+  <image file='data/flickr/2/image04234.jpg_RESAMPLED_5e78b0f304301a6a.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image22199.jpg_RESAMPLED_646c918fbcc27800.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='83' left='-25' width='101' height='103' ignore='1'/>
+    <box top='181' left='35' width='69' height='69' ignore='1'/>
+  </image>
+  <image file='images/c1/6e65ae8519b8080c0c6ca6b7f579ee09.jpg_RESAMPLED_da838b6dfb6006.png'>
+    <box top='78' left='78' width='83' height='83'/>
+  </image>
+  <image file='images/b3/60450574af586eeaf2508cfb7dec4abd.jpg_RESAMPLED_38b0309b3ff14a53.png'>
+    <box top='85' left='82' width='69' height='70'/>
+  </image>
+  <image file='images/4c/f54905347d7f08b572cebf7477f54bad.jpg_RESAMPLED_eeafc591a72c1fbb.png'>
+    <box top='82' left='70' width='83' height='83'/>
+  </image>
+  <image file='actors/45388.jpg_RESAMPLED_b8b914229c8e9fbd.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image65411.jpg_RESAMPLED_b15279e0c552bb0.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/2e/d0502fff46b27aa0930a578317e8bf9e_RESAMPLED_d11d40b4e490ab6f.png'>
+    <box top='82' left='75' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image32572.jpg_RESAMPLED_53ef1003b32b3c89.png'>
+    <box top='81' left='81' width='88' height='89'/>
+  </image>
+  <image file='data/flickr/2/image58711.jpg_RESAMPLED_ac20932ce67215c4.png'>
+    <box top='79' left='89' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image64008.jpg_RESAMPLED_c2403d9e86683562.png'>
+    <box top='12' left='-43' width='72' height='72' ignore='1'/>
+    <box top='66' left='85' width='100' height='99'/>
+    <box top='28' left='56' width='51' height='51'/>
+  </image>
+  <image file='data/flickr/0/image09703.jpg_RESAMPLED_77895c36b38f0470.png'>
+    <box top='78' left='77' width='88' height='88'/>
+  </image>
+  <image file='images/fe/bc8fb75f542cd3a86d6f8f387d6b4f6a.jpg_RESAMPLED_68afb69c15fae023.png'>
+    <box top='75' left='74' width='83' height='83'/>
+  </image>
+  <image file='images/c8/ab4b83b0469ea298efa142fb6785f983.jpg_RESAMPLED_c13a4d327cf59f02.png'>
+    <box top='78' left='78' width='83' height='83'/>
+  </image>
+  <image file='actors/75174.jpg_RESAMPLED_5ed49f588b946249.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image67334.jpg_RESAMPLED_4baa9912331c8891.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image24651.jpg_RESAMPLED_6d36215c80f59ad2.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000364.jpg'>
+    <box top='158' left='268' width='58' height='58'/>
+    <box top='155' left='198' width='48' height='48'/>
+  </image>
+  <image file='data/flickr/0/image18798.jpg_RESAMPLED_3af7a81ea86f6e0c.png'>
+    <box top='79' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image54918.jpg_RESAMPLED_5618f0de17260c3c.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image13786.jpg_RESAMPLED_b0dfe6ca3613cf8e.png'>
+    <box top='77' left='77' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image08717.jpg_RESAMPLED_4ef4b0a81b96ea4.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image53511.jpg_RESAMPLED_359bf1006f7ef907.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image14565.jpg_RESAMPLED_40c23d3bf6f1894e.png'>
+    <box top='76' left='89' width='91' height='86'/>
+  </image>
+  <image file='images/77/87252d6de2ec2c7302b9f017eee0b2d8.jpg_RESAMPLED_9f3f71d8247841e5.png'>
+    <box top='85' left='92' width='70' height='70'/>
+    <box top='75' left='197' width='71' height='68'/>
+  </image>
+  <image file='data/flickr/2/image36367.jpg_RESAMPLED_9439e17f55de6dd5.png'>
+    <box top='77' left='75' width='98' height='97'/>
+  </image>
+  <image file='data/flickr/0/image67382.jpg_RESAMPLED_71226b20339812b9.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='196' left='163' width='21' height='20'/>
+  </image>
+  <image file='actresses/56559.jpg_RESAMPLED_e07bf48f0cecaec.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='16' left='187' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_005691.jpg'>
+    <box top='33' left='61' width='58' height='58'/>
+  </image>
+  <image file='data/flickr/0/image22925.jpg_RESAMPLED_12bf3a4c91f99cd.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image66144.jpg_RESAMPLED_c1d67375862d1ac1.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='187' left='240' width='94' height='103' ignore='1'/>
+    <box top='240' left='-73' width='77' height='84' ignore='1'/>
+  </image>
+  <image file='images/f1/bf75f76a4b9e646be82f5f8efe634804_RESAMPLED_cb1b491c739c7dd4.png'>
+    <box top='75' left='76' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image67071.jpg_RESAMPLED_6102628658b4ab2b.png'>
+    <box top='77' left='76' width='99' height='99'/>
+    <box top='-20' left='0' width='70' height='72' ignore='1'/>
+    <box top='53' left='-28' width='52' height='59' ignore='1'/>
+    <box top='42' left='-56' width='61' height='52' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image30263.jpg_RESAMPLED_a3c69530180c52de.png'>
+    <box top='70' left='57' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image60781.jpg_RESAMPLED_be1c20224ee73e7a.png'>
+    <box top='74' left='-63' width='93' height='93' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image03456.jpg_RESAMPLED_1da86ac15f92c68b.png'>
+    <box top='54' left='-60' width='94' height='103' ignore='1'/>
+    <box top='91' left='90' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/2/image67362.jpg_RESAMPLED_e2d5f4098d107a90.png'>
+    <box top='-26' left='-35' width='84' height='86' ignore='1'/>
+    <box top='76' left='75' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03787032/n03787032_3764.JPEG_RESAMPLED_32ba681ab0df3cc2.png'>
+    <box top='129' left='129' width='92' height='92'/>
+  </image>
+  <image file='images/90/64f5895142d6676d0d0deb03a560a11c.jpg_RESAMPLED_1d53a094f2872725.png'>
+    <box top='83' left='84' width='83' height='83' pose='4' detection_score='3'/>
+  </image>
+  <image file='data/flickr/0/image00288.jpg_RESAMPLED_6013a82878648039.png'>
+    <box top='75' left='77' width='99' height='99'/>
+    <box top='-82' left='-71' width='82' height='82' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image32912.jpg_RESAMPLED_607c7636517315c0.png'>
+    <box top='82' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000904.jpg'>
+    <box top='82' left='206' width='58' height='58'/>
+    <box top='145' left='136' width='58' height='58'/>
+    <box top='144' left='286' width='70' height='69'/>
+  </image>
+  <image file='data/flickr/3/image32752.jpg_RESAMPLED_b007be3216e6f63c.png'>
+    <box top='72' left='-13' width='75' height='81' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image39854.jpg_RESAMPLED_e1b81e28f35a7682.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image50232.jpg_RESAMPLED_d45805fbb93cdc4f.png'>
+    <box top='84' left='83' width='83' height='83'/>
+    <box top='51' left='224' width='95' height='104' ignore='1'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03188531/n03188531_10880.JPEG_RESAMPLED_492c37e4a9ec4296.png'>
+    <box top='126' left='126' width='99' height='99'/>
+  </image>
+  <image file='images/3c/cffdd06eb958e679817c6a611a639c47.jpg_RESAMPLED_8c538d5e0cf3dd16.png'>
+    <box top='76' left='75' width='99' height='99' pose='4' detection_score='2'/>
+  </image>
+  <image file='data/flickr/3/image18800.jpg_RESAMPLED_90ff3dee852364b1.png'>
+    <box top='31' left='-27' width='86' height='80' ignore='1'/>
+    <box top='15' left='78' width='14' height='15' ignore='1'/>
+    <box top='17' left='59' width='14' height='15' ignore='1'/>
+    <box top='9' left='112' width='9' height='10' ignore='1'/>
+    <box top='9' left='126' width='11' height='10' ignore='1'/>
+    <box top='15' left='146' width='11' height='11' ignore='1'/>
+    <box top='82' left='81' width='73' height='78'/>
+  </image>
+  <image file='data/flickr/0/image64145.jpg_RESAMPLED_5167a64b4b213ac3.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21008.jpg_RESAMPLED_fea4e7a198eff515.png'>
+    <box top='83' left='73' width='85' height='83'/>
+  </image>
+  <image file='images/45/a2fc37ad4c6e24dc2cfaf5ff261d5027.jpg_RESAMPLED_ee931a4eb9badd95.png'>
+    <box top='86' left='87' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image49643.jpg_RESAMPLED_684fa6ed74638a66.png'>
+    <box top='70' left='71' width='108' height='111'/>
+    <box top='29' left='202' width='94' height='96' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image19380.jpg_RESAMPLED_cf1f315f1e65db94.png'>
+    <box top='71' left='73' width='104' height='108'/>
+  </image>
+  <image file='data/flickr/2/image26056.jpg_RESAMPLED_afda32e54934f971.png'>
+    <box top='76' left='77' width='99' height='99'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_008321.jpg'>
+    <box top='69' left='107' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image29225.jpg_RESAMPLED_f33bdd9102f7ed4b.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='76' left='-9' width='24' height='23' ignore='1'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000987.jpg'>
+    <box top='100' left='336' width='41' height='40'/>
+    <box top='51' left='246' width='25' height='26'/>
+    <box top='83' left='262' width='41' height='40'/>
+    <box top='105' left='198' width='33' height='29'/>
+    <box top='98' left='147' width='33' height='31'/>
+    <box top='236' left='220' width='41' height='40'/>
+    <box top='235' left='112' width='41' height='40'/>
+  </image>
+  <image file='data/flickr/3/image59789.jpg_RESAMPLED_b3135c4349bfd029.png'>
+    <box top='85' left='78' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/3/image26789.jpg_RESAMPLED_62d5c506e6da7870.png'>
+    <box top='68' left='74' width='103' height='114'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_003088.jpg'>
+    <box top='105' left='115' width='74' height='75'/>
+    <box top='111' left='213' width='38' height='39'/>
+  </image>
+  <image file='images/10/c4cf22bc7b00be719882f807b658b8a3_RESAMPLED_a200e808cc1b101.png'>
+    <box top='76' left='77' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image18923.jpg_RESAMPLED_360d63c192e262a1.png'>
+    <box top='83' left='82' width='83' height='83'/>
+  </image>
+  <image file='images/92/2c0dce264f8e6baeca1e189ae93418d9.jpg_RESAMPLED_2ba6cee4521e5a5b.png'>
+    <box top='86' left='91' width='69' height='70'/>
+    <box top='107' left='77' width='57' height='59' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image01631.jpg_RESAMPLED_41f37fb2af5188e5.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='112' left='-36' width='62' height='68' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image06458.jpg_RESAMPLED_5305f3a8b83a73fd.png'>
+    <box top='89' left='90' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image07108.jpg_RESAMPLED_7e44419b7dfd0491.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='53' left='224' width='106' height='100' ignore='1'/>
+    <box top='133' left='22' width='18' height='17'/>
+  </image>
+  <image file='data/flickr/0/image00288.jpg_RESAMPLED_a8bb7cbacf5514cf.png'>
+    <box top='84' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/2a/717f29cb86b7982f1ba41900072603cb.jpg_RESAMPLED_1b4eac99fde3dca4.png'>
+    <box top='74' left='73' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image20027.jpg_RESAMPLED_80aa51b952581833.png'>
+    <box top='-45' left='-60' width='97' height='97' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image05365.jpg_RESAMPLED_f99c8b74e3a3e800.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image22195.jpg_RESAMPLED_44a228c04a31c79b.png'>
+    <box top='75' left='-16' width='97' height='103' ignore='1'/>
+    <box top='71' left='74' width='102' height='109'/>
+  </image>
+  <image file='data/flickr/2/image15081.jpg_RESAMPLED_a7dd076ffe84214a.png'>
+    <box top='84' left='98' width='81' height='83'/>
+  </image>
+  <image file='data/flickr/0/image06966.jpg_RESAMPLED_b5620f293594efd5.png'>
+    <box top='82' left='94' width='70' height='72'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03444034/n03444034_10921.JPEG_RESAMPLED_d283e541496cdb6c.png'>
+    <box top='127' left='127' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n07615774/n07615774_25818.JPEG_RESAMPLED_d98a593552abc58a.png'>
+    <box top='129' left='130' width='90' height='93'/>
+    <box top='-16' left='-24' width='90' height='90' ignore='1'/>
+  </image>
+  <image file='images/bf/fede6dafddec879abf6380684866df3f.jpg_RESAMPLED_ee5bbbdfd0d3139d.png'>
+    <box top='83' left='88' width='69' height='71'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2008_000271.jpg'>
+    <box top='133' left='341' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image13562.jpg_RESAMPLED_867e429f4c3bded2.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='47' left='138' width='127' height='140' ignore='1'/>
+  </image>
+  <image file='images/71/1a1184f7dba4f0c944dc61f8f9aef2c4.jpg_RESAMPLED_5d9b2ebb35db0a9c.png'>
+    <box top='81' left='68' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image12293.jpg_RESAMPLED_8ae47d4ab339f8dd.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image03390.jpg_RESAMPLED_aca31deb7e6de5d1.png'>
+    <box top='85' left='85' width='83' height='83'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n02808440/n02808440_39581.JPEG_RESAMPLED_100045dc061c8c46.png'>
+    <box top='130' left='129' width='92' height='90'/>
+  </image>
+  <image file='images/3d/3548319408afd7338df71f8693bb74a5.jpg_RESAMPLED_29b33fe9e2a87f89.png'>
+    <box top='76' left='76' width='99' height='99' pose='4' detection_score='1'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_675.jpg_RESAMPLED_4d5802cc34a3cd4.png'>
+    <box top='95' left='98' width='106' height='110'/>
+  </image>
+  <image file='data/flickr/3/image17792.jpg_RESAMPLED_30a0b37f0fc4cd9a.png'>
+    <box top='5' left='-235' width='259' height='263' ignore='1'/>
+    <box top='72' left='72' width='107' height='107'/>
+  </image>
+  <image file='images/70/4075a4f80cd490f5f992a799cea6637c.jpg_RESAMPLED_7f1b7cf3919f3f67.png'>
+    <box top='75' left='66' width='99' height='99'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n03124170/n03124170_6388.JPEG_RESAMPLED_e08d358d3963addf.png'>
+    <box top='119' left='122' width='107' height='112'/>
+  </image>
+  <image file='data/flickr/2/image03123.jpg_RESAMPLED_931fd10c491593d4.png'>
+    <box top='68' left='67' width='116' height='114'/>
+  </image>
+  <image file='data/flickr/0/image10800.jpg_RESAMPLED_b3f72562bb4a4921.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image60012.jpg_RESAMPLED_5450bb4fde09badf.png'>
+    <box top='-15' left='203' width='173' height='201' ignore='1'/>
+    <box top='78' left='75' width='100' height='95'/>
+    <box top='-39' left='90' width='54' height='50' ignore='1'/>
+    <box top='11' left='-123' width='160' height='198' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image54262.jpg_RESAMPLED_d11c6516c23da465.png'>
+    <box top='83' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image67025.jpg_RESAMPLED_5c4727f8d4edc2ed.png'>
+    <box top='90' left='91' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image21941.jpg_RESAMPLED_d07be65b8b17faa8.png'>
+    <box top='75' left='75' width='99' height='99'/>
+    <box top='165' left='212' width='128' height='127' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image20872.jpg_RESAMPLED_c3fec8a596510993.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='92' left='217' width='69' height='74' ignore='1'/>
+  </image>
+  <image file='data/flickr/3/image39901.jpg_RESAMPLED_c8ddfd7aa5e138fb.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image31919.jpg_RESAMPLED_e28e87c794fd97d2.png'>
+    <box top='67' left='72' width='106' height='116'/>
+    <box top='209' left='192' width='24' height='23'/>
+    <box top='193' left='136' width='26' height='27'/>
+    <box top='168' left='166' width='26' height='27'/>
+  </image>
+  <image file='images/7--Cheering/7_Cheering_Cheering_7_71.jpg_RESAMPLED_50ba491f3292ae00.png'>
+    <box top='120' left='118' width='81' height='82'/>
+    <box top='55' left='270' width='84' height='80' ignore='1'/>
+    <box top='-48' left='228' width='78' height='77' ignore='1'/>
+  </image>
+  <image file='actresses/104622.jpg_RESAMPLED_72c8e2d53c94fa6.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image68953.jpg_RESAMPLED_bde8f58322a90dcf.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image51506.jpg_RESAMPLED_262077db8e9984ce.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image64045.jpg_RESAMPLED_308b73732486b96f.png'>
+    <box top='69' left='68' width='114' height='112'/>
+    <box top='136' left='35' width='17' height='20' ignore='1'/>
+  </image>
+  <image file='data/flickr/2/image53928.jpg_RESAMPLED_89fc291fd982db2c.png'>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/0/image21795.jpg_RESAMPLED_a60d1ab066614f44.png'>
+    <box top='140' left='-26' width='89' height='89' ignore='1'/>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='actors/1089.jpg_RESAMPLED_7bdc24c73e94eb47.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image45705.jpg_RESAMPLED_718184d1f101f3e8.png'>
+    <box top='78' left='83' width='79' height='77'/>
+    <box top='39' left='6' width='39' height='36'/>
+  </image>
+  <image file='images/e6/844e492c9b0223d3dc3155faf38431e5.jpg_RESAMPLED_8f924f5031b0bae8.png'>
+    <box top='69' left='67' width='99' height='99'/>
+  </image>
+  <image file='images/3f/df0744106d8f03b256a0aede707335e1.jpg_RESAMPLED_eb914c2b3166eb7f.png'>
+    <box top='74' left='73' width='83' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_3fb60eb56d4cfe.png'>
+    <box top='107' left='111' width='100' height='94'/>
+    <box top='207' left='-77' width='89' height='89' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image20844.jpg_RESAMPLED_faff0b769ea18403.png'>
+    <box top='87' left='88' width='71' height='70'/>
+  </image>
+  <image file='actors/52538.jpg_RESAMPLED_fb592a69c804bb13.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='images/47/301e1a63d403647144f84437b5aa4db1.jpg_RESAMPLED_3f4b62aeaae385ee.png'>
+    <box top='71' left='71' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/3/image57969.jpg_RESAMPLED_3411ce51a4d3e6af.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image67241.jpg_RESAMPLED_9ec45a932430503d.png'>
+    <box top='86' left='83' width='69' height='71'/>
+    <box top='185' left='243' width='109' height='106' ignore='1'/>
+  </image>
+  <image file='actors/76492.jpg_RESAMPLED_1c95f637c9e484.png'>
+    <box top='76' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/0/image20850.jpg_RESAMPLED_ba757b411d4e04f0.png'>
+    <box top='84' left='84' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/3/image54090.jpg_RESAMPLED_e78588e7ee222f9e.png'>
+    <box top='82' left='81' width='72' height='72'/>
+  </image>
+  <image file='data/flickr/3/image60614.jpg_RESAMPLED_44a9e32a52e006b9.png'>
+    <box top='81' left='-71' width='96' height='96' ignore='1'/>
+    <box top='83' left='83' width='83' height='83'/>
+  </image>
+  <image file='images/20--Family_Group/20_Family_Group_Family_Group_20_424.jpg_RESAMPLED_11c08972c47a60e7.png'>
+    <box top='97' left='106' width='107' height='113'/>
+  </image>
+  <image file='data/flickr/0/image09489.jpg_RESAMPLED_6731a573ca314a9.png'>
+    <box top='80' left='80' width='90' height='90'/>
+  </image>
+  <image file='data/flickr/3/image18377.jpg_RESAMPLED_16a5f4e45cb9c632.png'>
+    <box top='74' left='58' width='99' height='99'/>
+  </image>
+  <image file='images/a5/9e6ce15441d6a78204877826f3fadfa8.jpg_RESAMPLED_cf4dc85d99403b38.png'>
+    <box top='22' left='166' width='69' height='69'/>
+    <box top='88' left='83' width='73' height='69'/>
+  </image>
+  <image file='data/flickr/0/image23724.jpg_RESAMPLED_85a0ddbac6d73e77.png'>
+    <box top='77' left='77' width='99' height='99'/>
+  </image>
+  <image file='actors/6537.jpg_RESAMPLED_78dbe89cb98dc0b6.png'>
+    <box top='76' left='76' width='99' height='99'/>
+    <box top='135' left='53' width='14' height='15' ignore='1'/>
+  </image>
+  <image file='data/flickr/0/image01540.jpg_RESAMPLED_e9e5f8cbd2cee517.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/a3/32349052a6e53dbd900f28243ea2bec4.jpg_RESAMPLED_d56980a803c2f9bd.png'>
+    <box top='88' left='81' width='69' height='70'/>
+  </image>
+  <image file='data/flickr/0/image13363.jpg_RESAMPLED_9cb325983148807e.png'>
+    <box top='78' left='82' width='82' height='85'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04579432/n04579432_18467.JPEG_RESAMPLED_4570872e5358cf0e.png'>
+    <box top='193' left='301' width='77' height='77' ignore='1'/>
+    <box top='150' left='234' width='82' height='83' ignore='1'/>
+    <box top='129' left='123' width='104' height='93'/>
+  </image>
+  <image file='images/pascal_voc2011_leftfaces/2007_003091.jpg'>
+    <box top='206' left='99' width='69' height='69'/>
+    <box top='54' left='207' width='89' height='87'/>
+  </image>
+  <image file='data/flickr/2/image66012.jpg_RESAMPLED_8c50b2b4c566f57b.png'>
+    <box top='75' left='75' width='99' height='99'/>
+  </image>
+  <image file='images/69/fcfa09fe592c335504a31076c961b7fb.jpg_RESAMPLED_ff3f2801e8c6aa22.png'>
+    <box top='78' left='77' width='83' height='83'/>
+  </image>
+  <image file='data/flickr/2/image42221.jpg_RESAMPLED_2d62a0145bba6187.png'>
+    <box top='75' left='76' width='99' height='99'/>
+  </image>
+  <image file='data/flickr/2/image50210.jpg_RESAMPLED_248de469897d148f.png'>
+    <box top='75' left='76' width='99' height='99'/>
+    <box top='56' left='-68' width='99' height='106' ignore='1'/>
+  </image>
+  <image file='Data/CLS-LOC/train/n04371430/n04371430_16830.JPEG_RESAMPLED_375327e67ffcddac.png'>
+    <box top='159' left='8' width='41' height='40'/>
+  </image>
+  <image file='data/flickr/3/image54110.jpg_RESAMPLED_88f1220969de1a07.png'>
+    <box top='68' left='72' width='104' height='115'/>
+  </image>
+</images>
+</dataset>
